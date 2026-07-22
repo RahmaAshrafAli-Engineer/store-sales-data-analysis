@@ -1,0 +1,801 @@
+Order_ID,Product_Name,Category,Store,City,Unit_Price,Quantity,Discount (%),Stock,Rating,Payment_Method,Customer_Gender,Order_Date
+10001,Chair,Networking,Online Market,Tanta,1824.0,1.0,10.0,44.0,2.5,Credit Card,Male,2025-04-21
+10002,Webcam,Networking,Digital World,Giza,10701.0,2.0,10.0,263.0,4.5,Debit Card,Male,2024-04-23
+10003,USB Cable,Furniture,Computer House,Alexandria,985.0,6.0,20.0,,1.6,Debit Card,Female,2024-01-20
+10004,Headphones,Networking,Mega Store,Ismailia,13445.0,2.0,10.0,102.0,1.6,Vodafone Cash,Female,2025-06-11
+10005,,Electronics,Computer House,Luxor,29858.0,,25.0,124.0,2.3,Credit Card,Male,2024-05-24
+10006,Chair,,,Alexandria,3858.0,5.0,10.0,285.0,1.2,,Male,2024-07-26
+10007,Microphone,Electronics,Elite Store,Alexandria,16765.0,5.0,25.0,229.0,1.7,Vodafone Cash,Male,2025-06-14
+10008,Headphones,Accessories,Smart Shop,Aswan,11691.0,6.0,30.0,145.0,4.9,Credit Card,Male,2025-01-10
+10009,Headphones,Furniture,Elite Store,,24356.0,6.0,15.0,196.0,2.7,Debit Card,Female,2025-05-18
+10010,Monitor,Accessories,Tech Zone,Port Said,19136.0,6.0,20.0,220.0,3.5,Cash,Female,2024-06-14
+10011,Phone,Furniture,Digital World,Giza,14426.0,2.0,10.0,,,Instapay,,2025-07-03
+10012,Mouse,Office,Mega Store,Luxor,28632.0,10.0,25.0,97.0,2.5,Credit Card,Female,2024-06-29
+10013,Keyboard,Networking,Computer House,Giza,5939.0,3.0,25.0,170.0,1.6,,Female,2025-09-08
+10014,Speaker,,Smart Shop,Tanta,5104.0,6.0,30.0,172.0,1.8,Credit Card,Male,2025-09-03
+10015,Desk,Accessories,Mega Store,Luxor,,8.0,25.0,150.0,2.3,Vodafone Cash,Male,2025-08-24
+10016,Keyboard,,,Giza,20634.0,1.0,5.0,121.0,3.5,Credit Card,Male,2025-03-19
+10017,Laptop,Furniture,,Port Said,16635.0,,0.0,107.0,2.6,Vodafone Cash,Male,2024-11-27
+10018,Speaker,Networking,Elite Store,,18931.0,2.0,15.0,3.0,1.0,Debit Card,,2025-05-17
+10019,Speaker,Electronics,Digital World,Mansoura,1892.0,6.0,30.0,,3.1,Cash,Male,2024-03-19
+10020,Hard Drive,Networking,,Mansoura,10108.0,9.0,30.0,5.0,,Debit Card,Female,2025-08-07
+10021,Camera,Electronics,Tech Zone,Port Said,26622.0,4.0,10.0,287.0,4.2,Cash,Male,2025-11-18
+10022,SSD,Networking,Future Electronics,Aswan,,3.0,5.0,105.0,4.3,Debit Card,Female,2025-01-30
+10023,USB Cable,Electronics,Smart Shop,,12547.0,8.0,10.0,145.0,4.2,,Male,2025-08-30
+10024,USB Cable,Accessories,Mega Store,Tanta,,10.0,10.0,270.0,2.3,Credit Card,Male,2024-04-12
+10025,Microphone,Office,Smart Shop,Port Said,11431.0,9.0,20.0,95.0,4.1,Instapay,Female,2025-02-05
+10026,Speaker,Furniture,Elite Store,Mansoura,7594.0,5.0,20.0,228.0,1.6,Vodafone Cash,Female,2024-08-11
+10027,Webcam,Networking,Computer House,Mansoura,7768.0,9.0,20.0,,3.6,Vodafone Cash,Female,2025-06-01
+10028,Mouse,,Digital World,Mansoura,,2.0,5.0,211.0,3.6,Vodafone Cash,Male,2025-09-25
+10029,Printer,Furniture,Future Electronics,Suez,17204.0,3.0,,5.0,1.1,Cash,Female,2024-08-23
+10030,Microphone,,Online Market,,19589.0,7.0,0.0,111.0,4.2,Vodafone Cash,Female,2025-03-02
+10031,Chair,Electronics,Future Electronics,,27127.0,7.0,15.0,105.0,,Vodafone Cash,Female,2024-04-25
+10032,Tablet,Accessories,Elite Store,Tanta,27340.0,6.0,20.0,138.0,2.1,Credit Card,Female,2024-06-11
+10033,Chair,Accessories,Future Electronics,Mansoura,,6.0,20.0,298.0,4.2,Debit Card,Female,2024-08-13
+10034,,Office,Elite Store,Giza,11827.0,2.0,30.0,95.0,1.3,Vodafone Cash,Female,2024-08-17
+10035,Monitor,Accessories,Online Market,Port Said,1678.0,10.0,10.0,296.0,3.4,Instapay,Female,2024-06-30
+10036,,Networking,Smart Shop,Suez,436.0,6.0,10.0,213.0,2.9,Vodafone Cash,Female,2024-09-05
+10037,Router,Accessories,Digital World,Port Said,6081.0,4.0,5.0,290.0,3.2,Cash,Female,2024-11-13
+10038,Tablet,Office,Mega Store,,28047.0,3.0,5.0,21.0,4.7,Cash,Male,2024-07-28
+10039,,Accessories,Computer House,,6489.0,2.0,,192.0,4.5,Cash,Male,2025-10-17
+10040,,Networking,Mega Store,Tanta,22835.0,1.0,10.0,149.0,4.1,,,2025-01-26
+10041,USB Cable,Electronics,Smart Shop,Port Said,13442.0,5.0,0.0,246.0,,Credit Card,Male,2024-04-05
+10042,,,Computer House,Alexandria,20442.0,2.0,15.0,266.0,4.6,Instapay,Male,2024-03-26
+10043,Speaker,Electronics,Future Electronics,Tanta,28719.0,2.0,10.0,250.0,1.4,Vodafone Cash,Female,2025-02-18
+10044,Phone,Electronics,Online Market,Suez,28989.0,,30.0,2.0,,Credit Card,Female,2025-01-28
+10045,USB Cable,,Online Market,Suez,18900.0,8.0,10.0,75.0,2.3,Credit Card,,2025-11-26
+10046,Mouse,Furniture,Tech Zone,Tanta,2332.0,10.0,25.0,86.0,1.2,Vodafone Cash,Female,2025-09-24
+10047,Power Bank,Furniture,Smart Shop,Ismailia,1906.0,8.0,5.0,269.0,,Vodafone Cash,Female,2025-05-15
+10048,Hard Drive,Electronics,Smart Shop,Port Said,15720.0,4.0,30.0,224.0,1.9,Credit Card,Female,2025-08-26
+10049,Monitor,Office,Digital World,Ismailia,24414.0,1.0,15.0,17.0,2.0,Credit Card,Male,2025-08-04
+10050,Router,,,,2048.0,7.0,20.0,112.0,2.2,Credit Card,Female,2024-05-12
+10051,Phone,Networking,Smart Shop,Port Said,5526.0,1.0,30.0,250.0,1.3,Vodafone Cash,Male,2025-10-10
+10052,Monitor,Accessories,Smart Shop,Tanta,9478.0,4.0,10.0,232.0,1.7,Credit Card,Female,2024-11-09
+10053,Keyboard,Office,Future Electronics,Cairo,4719.0,8.0,20.0,278.0,1.0,Cash,Female,2025-11-29
+10054,Desk,Furniture,Future Electronics,Tanta,12386.0,2.0,,201.0,2.8,Vodafone Cash,Male,2024-08-08
+10055,Camera,Electronics,Computer House,Ismailia,9392.0,6.0,20.0,82.0,1.3,Cash,Female,2025-03-13
+10056,Monitor,Accessories,Elite Store,,,6.0,15.0,124.0,3.7,Debit Card,Female,2024-02-15
+10057,Router,Networking,Elite Store,Tanta,7114.0,9.0,5.0,174.0,1.9,Vodafone Cash,Male,2024-07-10
+10058,Speaker,,Tech Zone,Tanta,7496.0,5.0,15.0,68.0,4.8,Debit Card,,2025-06-03
+10059,Keyboard,Furniture,Elite Store,,17865.0,10.0,25.0,46.0,,Credit Card,Male,2025-01-13
+10060,Camera,Electronics,Digital World,Tanta,5674.0,4.0,0.0,255.0,,,Female,2025-11-21
+10061,Monitor,Networking,Tech Zone,Mansoura,7511.0,5.0,5.0,,4.1,Instapay,Female,2024-11-29
+10062,Power Bank,Office,Computer House,Cairo,1869.0,10.0,15.0,29.0,4.2,Credit Card,Male,2024-02-08
+10063,SSD,Furniture,Future Electronics,Giza,10566.0,5.0,25.0,280.0,4.9,Debit Card,Female,2024-10-19
+10064,USB Cable,Electronics,Elite Store,Cairo,13799.0,8.0,0.0,236.0,,Credit Card,Male,2025-11-20
+10065,Phone,Office,Mega Store,Tanta,17564.0,10.0,,247.0,1.3,Vodafone Cash,Male,2024-06-10
+10066,Power Bank,Networking,Future Electronics,Mansoura,22997.0,8.0,10.0,24.0,3.6,Credit Card,Male,2024-11-26
+10067,Phone,Furniture,Online Market,Port Said,2708.0,2.0,10.0,73.0,3.5,Instapay,Female,2024-04-13
+10068,SSD,Office,Digital World,Tanta,3550.0,7.0,20.0,205.0,3.6,Credit Card,Female,2024-06-09
+10069,Smart Watch,Office,Future Electronics,Ismailia,25000.0,8.0,5.0,93.0,2.2,Debit Card,Male,2025-09-26
+10070,Router,Office,,Mansoura,2170.0,6.0,10.0,126.0,4.4,Debit Card,Female,2024-02-23
+10071,,Furniture,Digital World,Alexandria,4070.0,5.0,30.0,24.0,4.8,Credit Card,Female,2024-02-03
+10072,Smart Watch,Furniture,Digital World,Mansoura,10263.0,9.0,,,1.9,Debit Card,Female,2024-08-29
+10073,Tablet,Accessories,Computer House,Alexandria,28331.0,,5.0,47.0,1.4,Debit Card,Male,2024-04-22
+10074,USB Cable,Networking,Digital World,Aswan,29775.0,10.0,30.0,225.0,1.8,Instapay,Female,2024-11-13
+10075,,,Digital World,Giza,3309.0,4.0,10.0,265.0,4.3,Vodafone Cash,Male,2024-01-23
+10076,Laptop,Office,Online Market,Luxor,28061.0,9.0,20.0,98.0,3.7,Instapay,Female,2025-07-11
+10077,Chair,Accessories,Mega Store,Mansoura,10131.0,6.0,15.0,10.0,3.5,Cash,Female,2025-10-08
+10078,Tablet,Electronics,Tech Zone,Suez,1873.0,8.0,20.0,84.0,,Instapay,,2024-04-27
+10079,Laptop,Accessories,,Ismailia,17908.0,7.0,30.0,213.0,3.3,Credit Card,Female,2025-12-01
+10080,Speaker,Furniture,Online Market,Tanta,18676.0,2.0,0.0,172.0,,Vodafone Cash,,2025-10-04
+10081,Phone,Office,Tech Zone,Ismailia,13517.0,3.0,10.0,208.0,2.9,Credit Card,Female,2024-07-30
+10082,Headphones,Electronics,Digital World,,19677.0,1.0,30.0,63.0,4.2,Cash,Male,2025-02-21
+10083,Microphone,,Mega Store,Luxor,7040.0,9.0,0.0,257.0,4.9,Vodafone Cash,Female,2024-04-22
+10084,,Electronics,Future Electronics,Cairo,21594.0,7.0,0.0,120.0,4.7,Debit Card,Female,2024-02-13
+10085,Phone,Electronics,Mega Store,,3184.0,1.0,25.0,297.0,4.7,Instapay,Female,2024-05-07
+10086,Mouse,Electronics,Online Market,Luxor,18504.0,,,53.0,2.6,Credit Card,Male,2024-06-06
+10087,Mouse,Accessories,Digital World,Luxor,16793.0,4.0,25.0,271.0,2.9,Cash,Male,2025-01-28
+10088,Laptop,Office,Mega Store,Cairo,15484.0,4.0,10.0,240.0,3.8,Debit Card,Male,2025-05-26
+10089,Printer,Furniture,Elite Store,Alexandria,,,,242.0,4.7,Instapay,Female,2024-02-14
+10090,Camera,Furniture,Mega Store,Cairo,10283.0,3.0,30.0,17.0,1.6,Debit Card,Male,2024-04-17
+10091,Chair,Furniture,,,16428.0,,,186.0,2.2,Instapay,Male,2024-08-06
+10092,Tablet,Furniture,Computer House,,1191.0,1.0,0.0,,1.6,Vodafone Cash,Male,2025-03-18
+10093,Chair,Accessories,Elite Store,Ismailia,18069.0,,30.0,,3.4,Debit Card,Male,2024-11-10
+10094,Tablet,,Mega Store,,20434.0,10.0,,,2.2,Debit Card,Male,2024-06-25
+10095,Phone,Office,Smart Shop,Tanta,10185.0,1.0,25.0,297.0,2.3,Debit Card,Male,2024-08-15
+10096,Speaker,Electronics,Smart Shop,Port Said,13016.0,,25.0,75.0,1.3,Vodafone Cash,Male,2025-12-03
+10097,,Networking,Mega Store,Alexandria,,4.0,5.0,187.0,2.4,Cash,Male,2025-11-02
+10098,,,Computer House,,,4.0,30.0,245.0,4.4,,Male,2024-09-23
+10099,SSD,,Future Electronics,Suez,7885.0,5.0,0.0,129.0,1.9,Debit Card,Male,2025-01-13
+10100,Printer,Office,Digital World,Aswan,11222.0,2.0,20.0,282.0,3.8,Vodafone Cash,Female,2025-05-03
+10101,Mouse,Electronics,Smart Shop,,16440.0,4.0,25.0,78.0,3.5,Cash,,2025-12-02
+10102,Speaker,Electronics,Future Electronics,Cairo,3317.0,1.0,25.0,71.0,,,Male,2025-11-17
+10103,Phone,,,Port Said,6614.0,2.0,5.0,262.0,1.5,,Female,2024-10-16
+10104,Mouse,Office,Online Market,Aswan,26217.0,1.0,15.0,190.0,4.9,Instapay,Female,2024-12-22
+10105,Laptop,Furniture,Future Electronics,Giza,21362.0,10.0,5.0,62.0,3.3,Debit Card,,2025-10-18
+10106,Mouse,Electronics,,Tanta,27890.0,10.0,0.0,11.0,5.0,Cash,Male,2024-07-22
+10107,Printer,Networking,Tech Zone,Cairo,19040.0,4.0,,140.0,4.6,Vodafone Cash,Male,2024-07-31
+10108,USB Cable,Accessories,Smart Shop,Port Said,11461.0,4.0,10.0,,1.9,Cash,Female,2025-07-05
+10109,Power Bank,Accessories,,Tanta,5956.0,,10.0,42.0,,Debit Card,Male,2024-11-18
+10110,Mouse,Office,,Aswan,16078.0,10.0,30.0,16.0,2.0,Cash,Female,2025-08-16
+10111,Laptop,Furniture,Digital World,Aswan,,9.0,15.0,62.0,3.1,Cash,Male,2024-06-29
+10112,Printer,,Online Market,Luxor,7661.0,9.0,25.0,252.0,1.7,Credit Card,Female,2025-05-13
+10113,Power Bank,,Computer House,Port Said,17347.0,5.0,15.0,291.0,1.7,Cash,Female,2024-11-15
+10114,Chair,Office,Elite Store,Cairo,2061.0,10.0,25.0,7.0,2.9,Instapay,Male,2024-03-23
+10115,Tablet,Networking,Mega Store,Giza,17876.0,1.0,25.0,89.0,1.1,Vodafone Cash,Male,2024-10-29
+10116,USB Cable,Office,Digital World,Aswan,21980.0,1.0,10.0,207.0,1.5,,Female,2024-09-18
+10117,USB Cable,,Computer House,Giza,11296.0,6.0,15.0,291.0,2.7,,Female,2024-07-18
+10118,Camera,Office,Computer House,Aswan,13840.0,,5.0,283.0,1.3,Vodafone Cash,Male,2024-08-27
+10119,Smart Watch,Office,Mega Store,Cairo,11788.0,,,117.0,2.6,Debit Card,Male,2025-11-22
+10120,,Office,Elite Store,Tanta,28847.0,9.0,20.0,174.0,2.9,Debit Card,Female,2025-11-13
+10121,Chair,Networking,Future Electronics,Mansoura,14780.0,4.0,20.0,75.0,2.8,Credit Card,Male,2024-10-21
+10122,Hard Drive,Networking,Future Electronics,,29538.0,5.0,5.0,100.0,,Debit Card,,2025-05-26
+10123,Webcam,Office,Computer House,Aswan,,8.0,20.0,,3.1,Debit Card,Male,2025-11-19
+10124,Monitor,Accessories,,Ismailia,18263.0,3.0,,269.0,,Debit Card,Male,2025-01-30
+10125,Printer,Furniture,Tech Zone,Mansoura,,5.0,25.0,70.0,2.6,Vodafone Cash,Male,2024-05-17
+10126,Chair,,Computer House,Mansoura,22902.0,,,,4.3,Credit Card,Female,2024-05-08
+10127,,Furniture,,,13753.0,,15.0,,4.6,Vodafone Cash,Male,2024-02-18
+10128,USB Cable,Networking,Digital World,Port Said,979.0,3.0,25.0,292.0,4.4,Instapay,Female,2025-11-06
+10129,Headphones,Networking,,Giza,12001.0,,5.0,284.0,3.7,Vodafone Cash,Male,2024-10-19
+10130,,Accessories,,Giza,20133.0,7.0,10.0,194.0,1.5,Instapay,Female,2025-09-19
+10131,Smart Watch,Furniture,Computer House,Ismailia,26089.0,7.0,15.0,227.0,2.1,Cash,Female,2025-06-19
+10132,Chair,,Online Market,Tanta,27901.0,7.0,10.0,274.0,1.2,Cash,,2024-11-06
+10133,Microphone,Office,Elite Store,Tanta,15895.0,10.0,25.0,105.0,4.7,Instapay,Female,2025-06-20
+10134,Keyboard,Networking,Tech Zone,Suez,29554.0,8.0,15.0,20.0,3.6,Instapay,Female,2025-09-30
+10135,Camera,Furniture,Digital World,Aswan,17488.0,5.0,20.0,63.0,4.0,Vodafone Cash,Female,2024-08-21
+10136,Smart Watch,Accessories,Mega Store,Ismailia,,5.0,5.0,164.0,2.2,Instapay,Female,2024-07-27
+10137,Desk,Accessories,Elite Store,Suez,5794.0,,25.0,26.0,4.4,Credit Card,Male,2025-08-27
+10138,Speaker,Furniture,Computer House,Cairo,18334.0,7.0,0.0,284.0,2.0,Cash,Male,2024-04-03
+10139,Speaker,Networking,Tech Zone,,9699.0,10.0,15.0,,1.0,Cash,Male,2024-11-22
+10140,,Accessories,Smart Shop,Aswan,7030.0,4.0,15.0,280.0,2.5,Instapay,Female,2024-08-12
+10141,Headphones,Office,Tech Zone,Luxor,7119.0,2.0,30.0,,3.3,Debit Card,Female,2024-01-11
+10142,,Accessories,Tech Zone,Luxor,9641.0,4.0,25.0,223.0,,Debit Card,Male,2024-11-24
+10143,,Electronics,Digital World,Alexandria,19849.0,8.0,25.0,271.0,4.4,Instapay,Male,2024-01-12
+10144,Laptop,Electronics,Mega Store,Alexandria,492.0,,10.0,145.0,1.4,,,2024-02-04
+10145,Webcam,Networking,Smart Shop,Giza,28276.0,3.0,30.0,29.0,3.2,Debit Card,Male,2025-03-22
+10146,Smart Watch,Furniture,Future Electronics,Cairo,22652.0,7.0,20.0,44.0,3.1,Instapay,Male,2025-03-27
+10147,Tablet,Networking,,Mansoura,,9.0,10.0,274.0,2.1,Credit Card,Female,2024-08-07
+10148,Mouse,Networking,Elite Store,Mansoura,24373.0,4.0,30.0,33.0,4.3,Credit Card,Male,2025-03-16
+10149,Chair,,Tech Zone,Luxor,24267.0,10.0,10.0,140.0,4.0,Vodafone Cash,Female,2025-10-14
+10150,Desk,Networking,Online Market,Luxor,9420.0,3.0,20.0,220.0,3.9,Credit Card,Male,2025-06-18
+10151,Phone,Office,Digital World,Luxor,,5.0,30.0,21.0,4.5,Debit Card,Female,2025-08-17
+10152,Tablet,Office,Online Market,Ismailia,14375.0,1.0,30.0,179.0,3.9,Debit Card,Female,2024-08-16
+10153,,Accessories,Digital World,,4508.0,3.0,0.0,230.0,1.9,Instapay,,2024-12-09
+10154,Laptop,Electronics,Future Electronics,Alexandria,6641.0,,10.0,37.0,3.8,Instapay,Female,2024-03-20
+10155,Microphone,Networking,Elite Store,Ismailia,16396.0,8.0,10.0,69.0,2.2,Credit Card,Female,2024-12-18
+10156,Camera,Accessories,Elite Store,Tanta,25883.0,,15.0,115.0,2.0,Cash,Male,2025-01-30
+10157,Speaker,Electronics,Elite Store,Mansoura,11876.0,2.0,20.0,238.0,1.3,Vodafone Cash,Male,2024-10-16
+10158,USB Cable,Furniture,Smart Shop,Aswan,26467.0,8.0,5.0,147.0,4.0,Cash,Male,2025-03-30
+10159,Tablet,Office,Mega Store,Alexandria,18743.0,8.0,,8.0,3.8,Credit Card,Female,2025-11-01
+10160,Webcam,Electronics,Smart Shop,Suez,14188.0,10.0,30.0,287.0,1.9,Credit Card,,2024-05-07
+10161,Hard Drive,Furniture,Computer House,Tanta,22702.0,4.0,30.0,49.0,4.0,Cash,,2025-12-02
+10162,,,Computer House,Alexandria,,3.0,30.0,4.0,4.7,Vodafone Cash,Female,2025-06-26
+10163,Webcam,Office,Online Market,,20774.0,2.0,0.0,125.0,1.4,Cash,Male,2024-12-24
+10164,Speaker,Office,Mega Store,,29263.0,9.0,,,1.9,Instapay,Female,2025-06-10
+10165,Chair,Accessories,Future Electronics,Aswan,20443.0,1.0,30.0,164.0,4.0,Debit Card,Male,2024-11-08
+10166,Keyboard,Networking,Mega Store,Alexandria,23062.0,,20.0,277.0,2.1,Instapay,Female,2024-03-15
+10167,Mouse,Electronics,Digital World,Port Said,2219.0,,25.0,299.0,3.5,Debit Card,Female,2025-06-29
+10168,Hard Drive,Electronics,Computer House,Luxor,18606.0,8.0,25.0,289.0,1.3,Credit Card,Male,2024-07-14
+10169,Printer,Furniture,Tech Zone,Luxor,22102.0,4.0,15.0,76.0,2.8,Vodafone Cash,,2024-01-29
+10170,Hard Drive,Office,Tech Zone,Aswan,,,,297.0,,Cash,Male,2025-12-06
+10171,Hard Drive,Electronics,Future Electronics,Ismailia,8365.0,5.0,,,3.7,Vodafone Cash,Female,2024-01-16
+10172,Hard Drive,Office,Digital World,Luxor,8086.0,5.0,20.0,105.0,4.3,Cash,Male,2025-02-26
+10173,Keyboard,Electronics,Online Market,Alexandria,27784.0,9.0,30.0,94.0,4.5,Instapay,Female,2025-08-11
+10174,Keyboard,Accessories,Smart Shop,Suez,23223.0,9.0,15.0,134.0,4.1,,Male,2025-08-15
+10175,Printer,Networking,Digital World,Mansoura,835.0,9.0,0.0,,3.7,Cash,Male,2025-02-08
+10176,Laptop,Electronics,Tech Zone,,6189.0,6.0,0.0,146.0,1.1,Vodafone Cash,Female,2025-09-27
+10177,Laptop,Office,Tech Zone,,,6.0,5.0,158.0,3.1,,Male,2025-06-14
+10178,Microphone,Accessories,Online Market,Giza,18850.0,5.0,25.0,162.0,1.2,Credit Card,Female,2025-09-05
+10179,Keyboard,Electronics,Computer House,Cairo,25422.0,9.0,20.0,188.0,4.2,Instapay,Female,2024-03-17
+10180,Speaker,,Digital World,Aswan,28798.0,10.0,10.0,94.0,2.3,Credit Card,Male,2024-08-16
+10181,Desk,,Digital World,Tanta,20588.0,8.0,,,3.2,Instapay,Male,2024-10-23
+10182,Monitor,Electronics,Tech Zone,,,7.0,10.0,287.0,,Instapay,Male,2025-05-24
+10183,Headphones,Accessories,Smart Shop,Ismailia,5669.0,7.0,5.0,186.0,4.1,Debit Card,Male,2025-12-15
+10184,,Furniture,Future Electronics,,1986.0,6.0,5.0,,4.5,Credit Card,Male,2025-07-26
+10185,,Accessories,Elite Store,,26782.0,5.0,30.0,129.0,2.6,Credit Card,Female,2025-06-21
+10186,Printer,,Future Electronics,Cairo,3857.0,4.0,15.0,193.0,4.5,Debit Card,Male,2025-08-05
+10187,Webcam,,Digital World,Luxor,7201.0,3.0,5.0,,2.1,Vodafone Cash,,2025-09-06
+10188,Keyboard,Accessories,Future Electronics,Alexandria,9543.0,3.0,,143.0,3.1,Credit Card,,2024-11-21
+10189,Desk,Furniture,Tech Zone,Tanta,,6.0,10.0,15.0,4.4,Cash,Male,2024-12-28
+10190,,Electronics,Tech Zone,,,4.0,15.0,244.0,2.3,Debit Card,,2025-10-30
+10191,SSD,Furniture,Online Market,Aswan,3286.0,6.0,5.0,106.0,4.8,Credit Card,Female,2024-12-24
+10192,SSD,Furniture,Digital World,Aswan,,3.0,25.0,87.0,1.5,Vodafone Cash,Male,2025-12-06
+10193,Laptop,Networking,Online Market,Port Said,2402.0,4.0,5.0,128.0,1.1,Credit Card,,2024-11-19
+10194,Tablet,Furniture,Digital World,Port Said,1982.0,9.0,15.0,3.0,4.6,Instapay,Female,2025-11-28
+10195,Desk,Furniture,Elite Store,Suez,10963.0,5.0,,94.0,1.3,Cash,Female,2024-11-21
+10196,SSD,Electronics,Elite Store,Suez,8606.0,7.0,20.0,208.0,5.0,Debit Card,,2025-09-16
+10197,Mouse,Networking,Computer House,Luxor,,10.0,15.0,,4.8,Instapay,,2024-06-13
+10198,Webcam,Office,Digital World,Suez,5548.0,2.0,10.0,46.0,1.5,Vodafone Cash,,2025-07-26
+10199,Monitor,Electronics,Smart Shop,Alexandria,10632.0,5.0,20.0,180.0,3.2,Instapay,Female,2025-08-26
+10200,Microphone,Electronics,Future Electronics,Alexandria,,9.0,,105.0,,,,2025-03-30
+10201,Mouse,Office,Digital World,Tanta,,3.0,0.0,198.0,2.7,Vodafone Cash,Female,2024-06-01
+10202,Microphone,Furniture,Mega Store,Mansoura,9619.0,9.0,15.0,105.0,1.2,Instapay,Male,2024-05-06
+10203,Webcam,Accessories,,Alexandria,,6.0,30.0,279.0,1.9,Debit Card,Male,2024-07-11
+10204,Chair,Networking,Mega Store,Giza,27806.0,,10.0,259.0,2.5,Credit Card,Male,2025-09-18
+10205,Webcam,Accessories,Tech Zone,Port Said,24164.0,7.0,25.0,107.0,2.8,Instapay,Female,2025-06-13
+10206,Tablet,Office,Elite Store,Aswan,4907.0,8.0,20.0,18.0,4.9,Debit Card,Female,2024-01-10
+10207,Laptop,Electronics,Future Electronics,Suez,390.0,6.0,,295.0,4.2,Credit Card,Male,2024-04-01
+10208,Phone,Electronics,Digital World,Tanta,,5.0,15.0,170.0,3.9,Credit Card,Female,2024-05-18
+10209,Chair,,,Cairo,16816.0,6.0,,194.0,3.1,Instapay,Female,2025-04-25
+10210,Router,Electronics,Future Electronics,Aswan,29725.0,5.0,30.0,11.0,4.4,Debit Card,Female,2025-03-24
+10211,Phone,Electronics,Tech Zone,,,8.0,,194.0,2.4,Instapay,,2024-11-28
+10212,,Networking,Elite Store,Suez,8541.0,1.0,0.0,282.0,3.8,Vodafone Cash,Female,2024-12-05
+10213,Headphones,Networking,Smart Shop,Giza,188.0,7.0,15.0,181.0,5.0,Credit Card,Female,2024-02-21
+10214,Router,Office,Computer House,Port Said,408.0,10.0,20.0,143.0,2.3,,,2025-12-07
+10215,Camera,Electronics,Future Electronics,Port Said,21365.0,10.0,20.0,181.0,3.7,Credit Card,Male,2025-04-10
+10216,Mouse,Electronics,Future Electronics,Luxor,9764.0,2.0,15.0,29.0,4.4,Debit Card,Male,2025-12-18
+10217,Chair,Office,Smart Shop,Tanta,19890.0,9.0,20.0,83.0,4.7,Cash,Female,2025-04-19
+10218,SSD,Furniture,Future Electronics,,1677.0,1.0,5.0,165.0,3.9,Instapay,Male,2025-02-04
+10219,SSD,Furniture,Tech Zone,Ismailia,25929.0,10.0,25.0,283.0,,Instapay,Male,2025-03-14
+10220,Webcam,Furniture,Tech Zone,Ismailia,16046.0,6.0,15.0,280.0,,Credit Card,Male,2025-08-27
+10221,Hard Drive,Office,Smart Shop,Aswan,23060.0,9.0,30.0,,1.1,Debit Card,Female,2025-10-18
+10222,Keyboard,Electronics,Computer House,Cairo,5054.0,1.0,5.0,265.0,4.0,Vodafone Cash,Female,2025-08-20
+10223,Laptop,Office,Digital World,Tanta,,4.0,25.0,297.0,1.2,Debit Card,Female,2025-05-23
+10224,SSD,,Mega Store,Giza,26812.0,4.0,30.0,,,Instapay,Female,2024-06-01
+10225,Speaker,Furniture,Digital World,Cairo,13333.0,9.0,30.0,224.0,,Vodafone Cash,Female,2025-05-28
+10226,Printer,Accessories,Future Electronics,Mansoura,,,30.0,41.0,,Debit Card,Male,2025-05-17
+10227,Printer,Electronics,Mega Store,Aswan,22850.0,5.0,25.0,,2.9,Cash,Female,2025-11-06
+10228,Tablet,Furniture,Online Market,Giza,19604.0,6.0,5.0,207.0,,Credit Card,Male,2024-01-06
+10229,Tablet,Accessories,,Ismailia,20269.0,1.0,,236.0,1.6,Debit Card,Female,2025-05-14
+10230,Mouse,Accessories,,Alexandria,24451.0,1.0,30.0,21.0,2.8,Debit Card,Male,2025-10-22
+10231,Microphone,Networking,Computer House,Luxor,2201.0,9.0,10.0,184.0,2.9,Cash,Female,2025-12-17
+10232,SSD,Electronics,Mega Store,Ismailia,9479.0,3.0,15.0,241.0,1.8,Instapay,Female,2024-04-27
+10233,,Accessories,Tech Zone,Tanta,14122.0,4.0,,282.0,1.5,,Female,2025-04-29
+10234,Mouse,Furniture,Mega Store,Port Said,11977.0,1.0,25.0,40.0,4.3,Debit Card,Female,2025-08-23
+10235,Webcam,Networking,Future Electronics,Alexandria,6955.0,9.0,20.0,161.0,3.0,,Female,2025-10-27
+10236,,Electronics,Tech Zone,Luxor,19268.0,8.0,25.0,,1.1,Debit Card,Female,2025-11-09
+10237,Webcam,Office,Elite Store,Luxor,12502.0,,5.0,88.0,4.2,,Male,2025-04-12
+10238,Headphones,Furniture,Elite Store,Mansoura,,8.0,25.0,11.0,4.9,Debit Card,Female,2024-06-09
+10239,Hard Drive,Accessories,Online Market,Mansoura,16262.0,7.0,10.0,72.0,3.4,Cash,,2024-09-26
+10240,Phone,,Elite Store,Suez,19001.0,6.0,15.0,75.0,3.0,Debit Card,Female,2024-02-25
+10241,,Furniture,Smart Shop,Ismailia,1357.0,1.0,15.0,200.0,4.5,Debit Card,Male,2024-08-15
+10242,Desk,,Mega Store,Ismailia,,7.0,25.0,9.0,4.8,Vodafone Cash,Male,2024-05-28
+10243,Phone,Networking,Elite Store,Ismailia,,10.0,30.0,225.0,4.0,Cash,,2024-02-15
+10244,Webcam,Electronics,Digital World,,2710.0,7.0,0.0,175.0,2.8,,Male,2024-05-23
+10245,Mouse,Networking,Computer House,Cairo,10453.0,9.0,0.0,275.0,,Debit Card,Male,2025-09-23
+10246,SSD,,Digital World,Luxor,26535.0,1.0,30.0,38.0,3.8,Vodafone Cash,Male,2024-12-05
+10247,Mouse,Office,Elite Store,Alexandria,20164.0,2.0,30.0,59.0,1.8,Debit Card,Female,2025-02-16
+10248,,Electronics,Online Market,Tanta,10288.0,9.0,30.0,65.0,2.8,Debit Card,Male,2025-06-03
+10249,Power Bank,Electronics,Computer House,Luxor,6257.0,9.0,5.0,123.0,,Credit Card,Female,2024-12-09
+10250,Router,Furniture,,Mansoura,,6.0,0.0,,,Credit Card,Female,2025-01-21
+10251,,Furniture,Digital World,Giza,1190.0,6.0,30.0,,,Vodafone Cash,Male,2025-04-17
+10252,Mouse,Office,Online Market,Port Said,24892.0,4.0,5.0,56.0,3.7,,Male,2024-10-01
+10253,SSD,Electronics,Mega Store,Suez,26471.0,4.0,,77.0,1.5,Credit Card,Female,2024-12-18
+10254,Tablet,Office,Mega Store,Aswan,1758.0,5.0,5.0,193.0,2.6,Instapay,Male,2024-03-06
+10255,Monitor,Furniture,Digital World,Giza,3680.0,3.0,0.0,284.0,4.2,Cash,Male,2024-03-19
+10256,,Furniture,Elite Store,Tanta,,1.0,25.0,14.0,1.9,Credit Card,Male,2025-08-20
+10257,Monitor,Electronics,Online Market,Ismailia,10535.0,1.0,20.0,,1.7,Credit Card,Male,2025-09-27
+10258,Laptop,Networking,Mega Store,Mansoura,28358.0,7.0,0.0,100.0,4.8,Vodafone Cash,Male,2024-07-20
+10259,Power Bank,Accessories,Future Electronics,Mansoura,12071.0,1.0,5.0,155.0,1.8,Instapay,Male,2025-10-23
+10260,SSD,Furniture,Tech Zone,Mansoura,,1.0,10.0,124.0,2.0,Credit Card,Male,2025-07-11
+10261,Webcam,Furniture,Elite Store,Ismailia,,3.0,15.0,279.0,4.9,,Female,2024-04-22
+10262,Phone,Networking,Online Market,Aswan,16909.0,10.0,0.0,109.0,3.9,Vodafone Cash,Male,2024-03-31
+10263,,Networking,Future Electronics,Suez,7734.0,4.0,30.0,145.0,3.8,Vodafone Cash,Female,2024-05-20
+10264,Mouse,Office,,Giza,25602.0,4.0,5.0,215.0,4.4,,Female,2024-10-15
+10265,Hard Drive,Office,Computer House,Ismailia,1257.0,2.0,30.0,161.0,,Cash,Female,2025-12-30
+10266,Laptop,Accessories,Future Electronics,Tanta,13381.0,1.0,30.0,127.0,3.8,Cash,Female,2025-08-11
+10267,SSD,Accessories,,,,3.0,,149.0,,Debit Card,Male,2025-02-14
+10268,Speaker,Electronics,Computer House,Tanta,607.0,,30.0,35.0,4.3,Credit Card,,2025-01-11
+10269,Microphone,Office,,Suez,29739.0,3.0,30.0,,3.0,Instapay,Female,2025-01-18
+10270,Power Bank,Furniture,Mega Store,Aswan,15933.0,8.0,20.0,,3.5,Credit Card,Female,2024-05-31
+10271,Desk,Office,Tech Zone,Port Said,13943.0,10.0,0.0,205.0,,Instapay,Female,2025-09-18
+10272,Desk,Furniture,Elite Store,Tanta,932.0,1.0,0.0,126.0,2.9,Instapay,Female,2024-11-14
+10273,Smart Watch,Networking,Elite Store,Ismailia,26820.0,2.0,15.0,216.0,4.1,Instapay,Male,2025-01-03
+10274,Microphone,,Mega Store,Suez,4811.0,7.0,5.0,95.0,3.5,Credit Card,Male,2025-08-28
+10275,,Networking,,Mansoura,27293.0,4.0,10.0,163.0,3.5,Vodafone Cash,Female,2025-07-13
+10276,Keyboard,Accessories,Mega Store,Luxor,5917.0,8.0,20.0,147.0,2.8,Credit Card,Male,2025-12-03
+10277,Laptop,Accessories,Computer House,Mansoura,23397.0,3.0,5.0,17.0,3.1,Instapay,Male,2025-04-06
+10278,USB Cable,Electronics,Mega Store,Cairo,29585.0,6.0,20.0,293.0,4.0,Debit Card,Female,2024-01-12
+10279,Laptop,Office,Mega Store,Port Said,12919.0,,0.0,194.0,4.3,Cash,Female,2024-06-04
+10280,Printer,Networking,Tech Zone,Port Said,7216.0,1.0,30.0,,3.8,Instapay,Female,2025-11-14
+10281,SSD,Furniture,Mega Store,Mansoura,13032.0,1.0,15.0,122.0,4.7,Debit Card,,2025-04-21
+10282,Microphone,Accessories,Online Market,Giza,7979.0,8.0,15.0,186.0,4.3,Vodafone Cash,Female,2025-02-04
+10283,Monitor,Accessories,Elite Store,Aswan,,3.0,25.0,148.0,3.2,,Male,2024-06-25
+10284,,Furniture,Online Market,Tanta,7319.0,5.0,10.0,103.0,3.7,Debit Card,Male,2024-12-06
+10285,,Networking,,Ismailia,26236.0,1.0,15.0,242.0,4.7,Instapay,Male,2024-02-26
+10286,Hard Drive,Networking,Digital World,Port Said,28114.0,5.0,30.0,230.0,3.5,Credit Card,Female,2025-03-23
+10287,Speaker,Office,Smart Shop,Mansoura,24559.0,6.0,0.0,205.0,4.3,Debit Card,Male,2024-07-21
+10288,Power Bank,Office,,Mansoura,13577.0,8.0,10.0,197.0,3.8,Credit Card,Female,2025-11-27
+10289,Desk,Electronics,Tech Zone,Aswan,2504.0,3.0,5.0,86.0,3.2,Credit Card,Female,2025-09-24
+10290,,Accessories,Computer House,Aswan,20928.0,3.0,30.0,141.0,2.0,Debit Card,,2024-07-20
+10291,Tablet,Office,,Alexandria,18380.0,10.0,30.0,198.0,2.7,Cash,Female,2024-11-25
+10292,Printer,Networking,Tech Zone,Alexandria,29436.0,9.0,15.0,45.0,4.9,Debit Card,Female,2024-12-28
+10293,Hard Drive,Furniture,Tech Zone,Giza,13041.0,4.0,10.0,287.0,3.6,Cash,Male,2025-03-29
+10294,Power Bank,Networking,Smart Shop,Giza,2858.0,4.0,0.0,14.0,3.3,Instapay,Male,2024-12-21
+10295,Mouse,Accessories,Elite Store,Cairo,6692.0,7.0,25.0,43.0,4.7,Instapay,Male,2024-08-03
+10296,Laptop,Networking,Online Market,Giza,3875.0,2.0,20.0,168.0,3.3,Debit Card,Male,2025-07-08
+10297,Webcam,Electronics,Computer House,Suez,3586.0,8.0,,43.0,3.1,Instapay,Male,2024-01-23
+10298,,Accessories,Future Electronics,Aswan,22502.0,6.0,0.0,97.0,4.0,Vodafone Cash,Female,2024-06-03
+10299,Mouse,Furniture,Online Market,,15359.0,3.0,0.0,260.0,3.9,Credit Card,Female,2024-07-04
+10300,Router,Electronics,Future Electronics,Suez,3852.0,9.0,20.0,108.0,,Credit Card,Male,2024-09-05
+10301,,Accessories,Tech Zone,Tanta,28803.0,5.0,25.0,282.0,2.9,Cash,Male,2024-05-13
+10302,Mouse,Furniture,Mega Store,Mansoura,21133.0,8.0,10.0,103.0,2.9,Instapay,,2024-11-16
+10303,,Electronics,Computer House,Giza,18404.0,7.0,20.0,,,Cash,Female,2025-01-24
+10304,Power Bank,Electronics,Digital World,Mansoura,22240.0,8.0,0.0,205.0,3.1,,Female,2025-03-09
+10305,Router,Accessories,Mega Store,Port Said,6192.0,7.0,,42.0,2.7,,Female,2024-01-22
+10306,USB Cable,Office,Mega Store,Cairo,28448.0,3.0,5.0,244.0,1.8,Instapay,Male,2025-08-22
+10307,Keyboard,Electronics,Online Market,Port Said,19253.0,2.0,25.0,286.0,,Vodafone Cash,Male,2025-10-26
+10308,Camera,Electronics,Computer House,Cairo,,7.0,30.0,272.0,1.3,,Male,2024-05-04
+10309,Keyboard,Furniture,Elite Store,Alexandria,414.0,,,82.0,3.3,Instapay,Male,2024-03-19
+10310,Hard Drive,Networking,Tech Zone,Mansoura,20692.0,3.0,15.0,109.0,4.4,,Female,2024-02-20
+10311,Phone,Accessories,Tech Zone,Cairo,,,15.0,189.0,3.9,Cash,Male,2025-12-28
+10312,,Accessories,Tech Zone,Luxor,27184.0,4.0,30.0,,2.4,Instapay,Male,2024-06-24
+10313,Tablet,Office,,Suez,15738.0,8.0,,250.0,1.3,,Male,2024-09-09
+10314,Headphones,Office,Online Market,,1913.0,,20.0,211.0,1.8,,Female,2024-09-02
+10315,SSD,Accessories,Future Electronics,Cairo,16549.0,1.0,10.0,290.0,3.2,Cash,Female,2024-04-15
+10316,Chair,Office,Tech Zone,Suez,7134.0,5.0,25.0,132.0,1.8,Cash,Male,2024-07-11
+10317,Camera,Furniture,Future Electronics,Mansoura,8066.0,5.0,,200.0,,Cash,Female,2024-11-11
+10318,Mouse,Accessories,Future Electronics,Mansoura,2434.0,1.0,25.0,284.0,1.9,Cash,Female,2024-10-28
+10319,Router,Office,Elite Store,Suez,,6.0,15.0,94.0,4.4,Debit Card,Female,2025-07-01
+10320,Smart Watch,Accessories,,Port Said,15122.0,1.0,,277.0,2.6,Instapay,Female,2025-12-16
+10321,Chair,Networking,Smart Shop,Luxor,3985.0,5.0,25.0,218.0,2.0,Credit Card,Female,2024-09-24
+10322,Monitor,Electronics,Digital World,,13177.0,9.0,10.0,88.0,4.2,Instapay,Male,2024-06-18
+10323,Smart Watch,Accessories,Mega Store,Tanta,14532.0,,,71.0,2.4,Debit Card,Male,2025-07-04
+10324,Webcam,Electronics,Future Electronics,Luxor,7792.0,6.0,10.0,246.0,1.4,Cash,Male,2025-03-30
+10325,Laptop,Office,Computer House,Mansoura,16215.0,8.0,20.0,128.0,3.3,Debit Card,Female,2025-10-12
+10326,Phone,Electronics,Computer House,Ismailia,21876.0,1.0,25.0,211.0,3.3,Vodafone Cash,,2024-10-18
+10327,Power Bank,Accessories,Digital World,Alexandria,2540.0,,5.0,95.0,,Vodafone Cash,Female,2025-07-17
+10328,SSD,Networking,Computer House,Giza,23414.0,9.0,25.0,74.0,2.0,,Female,2024-05-20
+10329,Power Bank,,Smart Shop,Cairo,13374.0,3.0,20.0,,2.8,Instapay,Male,2024-05-25
+10330,Speaker,Accessories,Computer House,Suez,,6.0,,53.0,2.1,Credit Card,Male,2025-02-28
+10331,,Office,Mega Store,Suez,24095.0,5.0,,217.0,1.3,Credit Card,Male,2024-11-09
+10332,USB Cable,Furniture,Mega Store,Cairo,18158.0,2.0,25.0,15.0,4.5,Vodafone Cash,Male,2024-07-02
+10333,Keyboard,Electronics,,Giza,,7.0,0.0,98.0,3.9,Cash,Male,2025-10-25
+10334,Keyboard,Furniture,Tech Zone,Tanta,24616.0,4.0,25.0,19.0,2.2,Debit Card,Male,2025-12-13
+10335,Microphone,,Elite Store,Giza,,1.0,,45.0,3.4,Credit Card,Female,2024-05-07
+10336,Hard Drive,Networking,Smart Shop,Ismailia,1187.0,4.0,10.0,192.0,,Credit Card,,2024-10-13
+10337,Webcam,,Future Electronics,Giza,27153.0,6.0,,57.0,4.6,,Male,2024-09-09
+10338,Camera,Electronics,Smart Shop,Ismailia,20551.0,7.0,10.0,110.0,1.5,Cash,Female,2025-11-30
+10339,Desk,Office,Tech Zone,Giza,3470.0,,10.0,128.0,1.0,Instapay,Male,2025-01-20
+10340,USB Cable,Accessories,Online Market,,5895.0,,15.0,193.0,3.0,Debit Card,,2024-08-17
+10341,Headphones,Office,Computer House,Tanta,21212.0,3.0,,7.0,3.3,Cash,Female,2024-09-27
+10342,Printer,Electronics,Computer House,Mansoura,3956.0,6.0,10.0,28.0,3.3,Credit Card,Male,2025-02-18
+10343,Laptop,Accessories,Elite Store,Cairo,20071.0,8.0,30.0,111.0,1.2,Credit Card,Male,2024-07-16
+10344,Phone,Office,Tech Zone,Tanta,19387.0,4.0,20.0,160.0,2.3,Vodafone Cash,Male,2024-11-18
+10345,Speaker,Networking,Future Electronics,Ismailia,22363.0,8.0,30.0,130.0,3.0,Cash,,2024-02-25
+10346,Speaker,Accessories,Elite Store,Tanta,26993.0,2.0,20.0,187.0,1.9,,Female,2024-07-21
+10347,Printer,Accessories,Tech Zone,,12463.0,10.0,25.0,162.0,4.5,Debit Card,,2025-09-12
+10348,Chair,Networking,Digital World,Suez,326.0,9.0,15.0,196.0,1.3,Instapay,Female,2025-09-19
+10349,Monitor,Furniture,Mega Store,Ismailia,18433.0,9.0,0.0,203.0,,Credit Card,,2025-08-26
+10350,Desk,Electronics,Elite Store,Mansoura,17661.0,8.0,30.0,211.0,3.8,Instapay,Female,2024-05-17
+10351,Smart Watch,Furniture,Elite Store,Port Said,6387.0,,0.0,108.0,2.0,,Female,2025-02-25
+10352,Webcam,,Future Electronics,,,,30.0,275.0,3.5,Credit Card,,2024-02-26
+10353,USB Cable,Networking,Smart Shop,Alexandria,20169.0,1.0,25.0,72.0,4.3,Credit Card,,2025-07-15
+10354,Mouse,Furniture,Digital World,Giza,15956.0,2.0,20.0,166.0,1.8,Credit Card,,2024-03-11
+10355,Phone,Accessories,Future Electronics,Cairo,17129.0,,5.0,259.0,4.7,Credit Card,Female,2025-08-16
+10356,Webcam,Office,Tech Zone,Aswan,25935.0,10.0,15.0,242.0,3.2,Vodafone Cash,Male,2025-01-06
+10357,SSD,Office,Tech Zone,Luxor,20586.0,5.0,30.0,274.0,2.2,Instapay,Male,2025-09-08
+10358,Smart Watch,Furniture,Tech Zone,,24335.0,,30.0,101.0,2.7,Vodafone Cash,Male,2025-08-22
+10359,Router,Furniture,Online Market,Suez,23904.0,5.0,25.0,172.0,,Vodafone Cash,Male,2025-05-28
+10360,Camera,Networking,Tech Zone,Luxor,27860.0,2.0,15.0,170.0,3.9,Cash,Female,2024-03-24
+10361,Microphone,Electronics,Smart Shop,Suez,12356.0,10.0,20.0,140.0,4.2,Cash,Male,2024-02-12
+10362,Hard Drive,Furniture,Digital World,Luxor,23971.0,,20.0,,4.3,Cash,Female,2025-10-27
+10363,,Furniture,Computer House,Mansoura,,9.0,30.0,85.0,4.9,Debit Card,Female,2025-08-28
+10364,Printer,Accessories,Mega Store,Aswan,19275.0,1.0,5.0,51.0,4.2,,Female,2024-05-12
+10365,Tablet,Office,Smart Shop,Luxor,4258.0,1.0,5.0,110.0,3.4,,Female,2025-01-29
+10366,Speaker,Electronics,Smart Shop,Mansoura,28185.0,7.0,0.0,42.0,2.4,Vodafone Cash,Female,2024-03-05
+10367,Laptop,Accessories,Online Market,Tanta,11640.0,3.0,15.0,210.0,3.2,Instapay,Male,2024-10-16
+10368,Laptop,Networking,Computer House,Aswan,25167.0,,15.0,199.0,1.2,Cash,Female,2025-01-10
+10369,,Networking,Computer House,Ismailia,10936.0,2.0,20.0,297.0,,Debit Card,Female,2025-04-11
+10370,,Furniture,Mega Store,,12916.0,9.0,0.0,239.0,2.8,Debit Card,Female,2024-07-31
+10371,SSD,Furniture,Mega Store,Port Said,1138.0,3.0,25.0,114.0,,Vodafone Cash,Male,2024-05-27
+10372,Phone,Networking,,Giza,,2.0,15.0,25.0,1.3,Instapay,Female,2025-07-26
+10373,Smart Watch,Furniture,Tech Zone,Port Said,,8.0,0.0,298.0,2.5,,Female,2025-04-15
+10374,Laptop,Electronics,,Aswan,9814.0,10.0,0.0,76.0,3.3,Instapay,Male,2024-05-28
+10375,SSD,Furniture,Future Electronics,Ismailia,22578.0,6.0,30.0,136.0,2.9,Cash,Female,2024-03-28
+10376,Chair,Office,Mega Store,Suez,,6.0,20.0,19.0,3.5,Credit Card,Female,2024-11-19
+10377,Printer,Furniture,Online Market,Ismailia,22102.0,10.0,0.0,210.0,2.9,,Male,2025-01-30
+10378,Mouse,Accessories,Online Market,Luxor,20670.0,7.0,5.0,239.0,3.6,Vodafone Cash,Female,2025-02-07
+10379,Speaker,Electronics,Mega Store,Suez,10009.0,7.0,,,1.9,Vodafone Cash,Female,2024-03-22
+10380,SSD,Accessories,Computer House,Luxor,12985.0,6.0,10.0,267.0,1.5,Debit Card,Female,2025-10-02
+10381,Microphone,Accessories,Digital World,Mansoura,8118.0,4.0,20.0,206.0,3.4,Cash,Female,2024-10-12
+10382,Printer,Office,Future Electronics,,18669.0,9.0,30.0,266.0,2.9,Debit Card,Female,2025-01-16
+10383,Power Bank,,Future Electronics,Mansoura,7345.0,6.0,25.0,153.0,1.1,Cash,Male,2024-09-26
+10384,Printer,Electronics,Mega Store,Alexandria,8442.0,4.0,10.0,41.0,,Credit Card,Male,2024-10-18
+10385,USB Cable,Electronics,Tech Zone,Ismailia,11440.0,,5.0,10.0,1.4,Debit Card,,2025-03-28
+10386,Hard Drive,,Digital World,Luxor,8498.0,4.0,30.0,293.0,3.1,Cash,Female,2025-12-15
+10387,Power Bank,Electronics,Future Electronics,Tanta,20181.0,3.0,10.0,97.0,2.6,,Female,2024-01-24
+10388,,Office,Mega Store,Mansoura,29268.0,2.0,20.0,274.0,3.5,Debit Card,Female,2024-11-06
+10389,Printer,,Online Market,Alexandria,10483.0,5.0,30.0,229.0,,Vodafone Cash,Male,2025-04-05
+10390,Speaker,,Future Electronics,Cairo,15088.0,2.0,20.0,219.0,2.2,Debit Card,Female,2024-07-26
+10391,SSD,,Elite Store,,19609.0,6.0,0.0,64.0,4.8,Instapay,Female,2025-12-17
+10392,SSD,,Digital World,Suez,28232.0,3.0,15.0,231.0,3.1,Debit Card,Female,2025-10-25
+10393,Chair,Furniture,Digital World,,11578.0,6.0,0.0,,3.5,Instapay,Male,2025-03-13
+10394,Monitor,Accessories,Elite Store,Aswan,,10.0,20.0,262.0,3.7,Credit Card,Male,2025-06-21
+10395,Laptop,Office,Smart Shop,Mansoura,21471.0,9.0,,266.0,3.7,Debit Card,Female,2025-12-06
+10396,,Networking,Online Market,Aswan,15793.0,1.0,5.0,153.0,3.0,Credit Card,Female,2024-12-01
+10397,Camera,Networking,Elite Store,Port Said,23861.0,6.0,25.0,139.0,2.7,Credit Card,Female,2025-02-25
+10398,Printer,Furniture,Computer House,Tanta,8655.0,9.0,5.0,50.0,1.2,Cash,Male,2024-11-16
+10399,Monitor,Accessories,Computer House,Ismailia,2064.0,4.0,30.0,116.0,1.1,Credit Card,Male,2025-05-11
+10400,Keyboard,,Mega Store,Ismailia,1431.0,2.0,,45.0,2.4,Credit Card,Male,2025-08-09
+10401,,Furniture,Digital World,Aswan,1148.0,,,87.0,2.3,Debit Card,Female,2024-06-11
+10402,Camera,Office,,Luxor,19860.0,1.0,30.0,207.0,2.6,Debit Card,Male,2025-06-24
+10403,Microphone,Networking,Smart Shop,Tanta,20089.0,,20.0,268.0,1.6,Vodafone Cash,,2024-06-13
+10404,,Furniture,Future Electronics,Ismailia,24372.0,10.0,5.0,88.0,4.0,Cash,Female,2025-11-28
+10405,Printer,Furniture,Future Electronics,Tanta,9151.0,9.0,20.0,117.0,4.4,Credit Card,Male,2025-07-19
+10406,Smart Watch,Electronics,Elite Store,Alexandria,237.0,10.0,,53.0,4.8,Cash,Female,2024-10-21
+10407,Monitor,Office,Smart Shop,Tanta,28670.0,5.0,25.0,115.0,3.0,Instapay,Male,2024-02-11
+10408,SSD,Electronics,Elite Store,Giza,11998.0,,5.0,117.0,3.8,Credit Card,Female,2024-10-11
+10409,SSD,Accessories,Online Market,Port Said,10257.0,3.0,,259.0,4.4,Cash,Female,2025-01-21
+10410,Keyboard,Electronics,Elite Store,,21843.0,5.0,10.0,74.0,2.7,Vodafone Cash,,2024-05-17
+10411,Hard Drive,Electronics,Future Electronics,Tanta,,8.0,,6.0,2.2,,Female,2024-07-05
+10412,Webcam,Networking,Digital World,Aswan,28270.0,6.0,25.0,121.0,4.7,,Female,2025-12-16
+10413,Speaker,Furniture,Elite Store,Cairo,18564.0,4.0,20.0,10.0,3.1,Instapay,Female,2025-03-06
+10414,,Office,Tech Zone,Giza,5292.0,2.0,30.0,214.0,3.0,Vodafone Cash,Female,2025-07-07
+10415,Mouse,Electronics,Digital World,Giza,8599.0,9.0,0.0,278.0,1.7,Vodafone Cash,,2025-02-19
+10416,Laptop,Office,Smart Shop,Luxor,22081.0,1.0,10.0,27.0,1.4,Instapay,Female,2025-03-01
+10417,Laptop,Electronics,Smart Shop,Tanta,5235.0,,15.0,,4.4,Cash,Female,2025-02-19
+10418,Microphone,Accessories,Elite Store,Luxor,15321.0,4.0,30.0,,3.5,Vodafone Cash,Female,2024-01-26
+10419,Headphones,,Digital World,Luxor,,7.0,0.0,53.0,2.3,Debit Card,Male,2025-01-05
+10420,Printer,Networking,Future Electronics,Cairo,27048.0,1.0,15.0,28.0,1.8,Vodafone Cash,Male,2025-01-19
+10421,Speaker,Furniture,Future Electronics,Alexandria,12499.0,9.0,5.0,163.0,3.2,Cash,Female,2024-02-25
+10422,Mouse,Accessories,Computer House,Tanta,24347.0,4.0,15.0,269.0,3.3,Cash,Female,2024-09-09
+10423,Laptop,Electronics,Smart Shop,Mansoura,23981.0,3.0,30.0,34.0,1.8,Credit Card,Male,2025-09-25
+10424,Laptop,Office,Mega Store,Ismailia,7873.0,1.0,20.0,285.0,4.4,Debit Card,Female,2024-04-15
+10425,Phone,Accessories,Computer House,Luxor,15767.0,10.0,30.0,272.0,1.3,Cash,,2024-05-09
+10426,Camera,Accessories,,Port Said,7405.0,,15.0,207.0,2.4,Instapay,Male,2025-10-31
+10427,Headphones,Electronics,Digital World,Suez,6515.0,9.0,25.0,237.0,3.7,Debit Card,Male,2025-01-10
+10428,Speaker,Accessories,Online Market,Port Said,12787.0,,0.0,92.0,2.1,Debit Card,Female,2024-11-03
+10429,Smart Watch,Office,Future Electronics,Cairo,17931.0,6.0,0.0,,4.3,Instapay,Female,2024-03-31
+10430,Speaker,Accessories,Digital World,Cairo,13374.0,6.0,15.0,78.0,4.0,Vodafone Cash,,2025-01-27
+10431,Power Bank,Office,Computer House,Aswan,10400.0,,0.0,,4.2,Instapay,Male,2025-06-17
+10432,,,,Alexandria,2605.0,,25.0,216.0,1.5,Instapay,Male,2024-04-19
+10433,Microphone,Furniture,Future Electronics,,21843.0,2.0,30.0,105.0,1.6,Vodafone Cash,Male,2025-07-14
+10434,Router,Accessories,,Luxor,26968.0,6.0,0.0,46.0,2.1,Vodafone Cash,Female,2025-10-02
+10435,Mouse,Furniture,Digital World,Port Said,3001.0,2.0,15.0,180.0,3.1,Vodafone Cash,Male,2025-08-07
+10436,Hard Drive,Office,Smart Shop,Suez,17672.0,3.0,,63.0,4.0,Vodafone Cash,Male,2024-12-05
+10437,Phone,Accessories,Online Market,Cairo,25599.0,4.0,10.0,245.0,4.3,Vodafone Cash,Female,2025-07-18
+10438,Camera,Networking,,Cairo,4777.0,5.0,,243.0,3.8,Instapay,Male,2024-12-21
+10439,Keyboard,,Mega Store,Alexandria,20399.0,9.0,0.0,86.0,4.7,Credit Card,Male,2024-06-16
+10440,Microphone,Accessories,Digital World,Suez,5736.0,4.0,30.0,216.0,4.0,Credit Card,Female,2025-07-10
+10441,Tablet,Furniture,Computer House,Suez,25676.0,9.0,15.0,,2.2,Cash,Female,2025-03-27
+10442,Chair,,Mega Store,Alexandria,3751.0,10.0,0.0,277.0,2.1,Credit Card,Male,2024-04-14
+10443,Monitor,Electronics,Mega Store,Cairo,2830.0,3.0,20.0,209.0,3.8,Credit Card,Female,2024-05-29
+10444,Router,Furniture,Tech Zone,Ismailia,23832.0,8.0,25.0,168.0,1.8,,Male,2024-05-25
+10445,,Networking,Future Electronics,Tanta,18022.0,1.0,0.0,137.0,1.4,Vodafone Cash,Female,2025-12-16
+10446,Headphones,Networking,Digital World,Tanta,28504.0,9.0,0.0,229.0,3.1,Vodafone Cash,Male,2024-10-25
+10447,Monitor,Office,Mega Store,Alexandria,2418.0,9.0,10.0,160.0,4.3,Instapay,Female,2024-06-15
+10448,Monitor,Accessories,Tech Zone,Suez,15642.0,10.0,25.0,0.0,1.4,Credit Card,Male,2025-12-13
+10449,Camera,Furniture,Computer House,Luxor,,2.0,15.0,235.0,4.2,Instapay,Female,2025-10-07
+10450,Printer,Office,Smart Shop,Alexandria,,4.0,0.0,187.0,4.2,Cash,Female,2025-12-23
+10451,Tablet,Furniture,Elite Store,Ismailia,2878.0,8.0,10.0,3.0,2.9,,Female,2024-02-17
+10452,Mouse,Accessories,Elite Store,Alexandria,1606.0,7.0,5.0,131.0,1.2,Debit Card,Female,2025-09-29
+10453,Hard Drive,,Digital World,Giza,24004.0,1.0,25.0,217.0,,Cash,Female,2024-08-26
+10454,Mouse,Electronics,Mega Store,Port Said,13414.0,5.0,10.0,259.0,,Cash,Female,2024-01-07
+10455,SSD,Networking,Elite Store,Suez,28484.0,7.0,10.0,0.0,3.8,Instapay,,2025-04-08
+10456,Monitor,Office,Future Electronics,Aswan,23914.0,4.0,30.0,70.0,4.6,Credit Card,Male,2025-03-28
+10457,Router,Electronics,,Aswan,25930.0,1.0,,177.0,,Vodafone Cash,Male,2025-01-05
+10458,Hard Drive,Office,Elite Store,Suez,15111.0,9.0,30.0,,,Debit Card,Female,2025-07-02
+10459,Chair,Accessories,Elite Store,Ismailia,10626.0,5.0,0.0,290.0,1.5,Cash,Female,2025-05-01
+10460,Printer,Electronics,Online Market,Giza,16616.0,2.0,0.0,7.0,3.9,Debit Card,Male,2024-07-29
+10461,Speaker,Office,Tech Zone,Giza,7240.0,8.0,5.0,252.0,1.7,Credit Card,Male,2024-06-13
+10462,Hard Drive,Accessories,Mega Store,Cairo,23121.0,2.0,20.0,,2.3,,Female,2024-05-04
+10463,Smart Watch,Networking,,Port Said,5615.0,3.0,20.0,243.0,2.9,Debit Card,Male,2024-12-02
+10464,Mouse,Accessories,Mega Store,Tanta,23675.0,10.0,20.0,122.0,1.1,Vodafone Cash,,2024-07-10
+10465,Tablet,Furniture,Online Market,Mansoura,15419.0,1.0,30.0,298.0,2.0,Credit Card,Female,2025-12-30
+10466,Hard Drive,Accessories,Digital World,Ismailia,24085.0,2.0,25.0,282.0,2.6,Debit Card,Female,2024-08-01
+10467,,Accessories,Digital World,Mansoura,22009.0,7.0,25.0,31.0,2.1,Cash,Female,2025-07-27
+10468,Webcam,Furniture,Digital World,Mansoura,1639.0,10.0,5.0,145.0,1.5,Debit Card,Male,2024-11-23
+10469,SSD,Office,Computer House,Suez,26213.0,2.0,25.0,155.0,3.9,Debit Card,Female,2025-01-15
+10470,Smart Watch,Office,Elite Store,Aswan,25285.0,6.0,20.0,15.0,4.3,Instapay,,2025-11-03
+10471,Microphone,Accessories,Computer House,Aswan,209.0,3.0,20.0,46.0,2.0,Credit Card,Male,2025-07-31
+10472,Hard Drive,Furniture,Tech Zone,Tanta,12195.0,4.0,10.0,250.0,,Vodafone Cash,Female,2024-08-26
+10473,Monitor,Furniture,Digital World,Suez,15423.0,8.0,25.0,186.0,2.5,Vodafone Cash,Male,2025-06-15
+10474,,Networking,Online Market,,6605.0,3.0,0.0,30.0,3.0,Instapay,Male,2025-11-30
+10475,Tablet,Office,Future Electronics,Luxor,16287.0,,0.0,259.0,4.4,Vodafone Cash,Male,2024-03-22
+10476,Microphone,Electronics,,Aswan,9253.0,6.0,10.0,,4.0,Debit Card,Male,2024-12-28
+10477,Speaker,,,Ismailia,8294.0,1.0,10.0,38.0,4.2,,Male,2025-05-19
+10478,Tablet,Office,Smart Shop,Ismailia,14793.0,7.0,10.0,38.0,1.5,Cash,Male,2024-07-20
+10479,Chair,Networking,Future Electronics,Cairo,13383.0,8.0,0.0,131.0,1.3,Credit Card,Female,2025-05-18
+10480,Power Bank,Electronics,Elite Store,Alexandria,,8.0,20.0,29.0,4.6,Credit Card,Female,2025-10-05
+10481,Webcam,Networking,Computer House,Luxor,23280.0,3.0,10.0,157.0,2.6,Credit Card,Female,2024-02-06
+10482,Microphone,Electronics,Computer House,Aswan,18741.0,10.0,5.0,277.0,,Debit Card,Male,2025-10-05
+10483,USB Cable,Accessories,Future Electronics,Giza,1278.0,1.0,30.0,202.0,3.9,Cash,Female,2025-08-11
+10484,SSD,Electronics,Computer House,,23660.0,9.0,10.0,65.0,4.3,Instapay,Male,2025-08-23
+10485,Printer,Networking,Digital World,,5640.0,6.0,30.0,107.0,4.4,Instapay,,2025-02-05
+10486,,Office,Tech Zone,Ismailia,23353.0,9.0,15.0,267.0,2.3,Credit Card,Male,2025-12-06
+10487,Speaker,Electronics,Mega Store,Mansoura,5635.0,7.0,10.0,221.0,4.4,Cash,Female,2024-06-24
+10488,Webcam,Electronics,Tech Zone,Giza,,,0.0,291.0,1.2,Cash,Male,2025-06-28
+10489,,Furniture,Elite Store,Suez,28328.0,1.0,25.0,17.0,1.2,Cash,Female,2025-07-23
+10490,SSD,Office,Mega Store,Port Said,6096.0,6.0,10.0,89.0,3.5,Vodafone Cash,Male,2025-04-11
+10491,Chair,Accessories,Online Market,Mansoura,12287.0,5.0,25.0,180.0,1.3,Vodafone Cash,,2024-07-19
+10492,Smart Watch,Networking,Mega Store,,,9.0,15.0,254.0,,Credit Card,Male,2025-06-23
+10493,Camera,Accessories,Tech Zone,Luxor,4995.0,2.0,5.0,252.0,,Cash,Female,2025-06-30
+10494,Chair,Office,Future Electronics,,7977.0,8.0,25.0,256.0,2.3,Cash,,2025-09-28
+10495,Power Bank,Electronics,Mega Store,Giza,12691.0,,30.0,,,Instapay,Female,2025-01-28
+10496,Printer,Electronics,,Tanta,16048.0,,20.0,89.0,,Instapay,Male,2024-02-11
+10497,Mouse,Office,Online Market,Giza,,10.0,10.0,236.0,2.8,Credit Card,Male,2025-08-19
+10498,Headphones,,Online Market,Aswan,7066.0,6.0,15.0,69.0,,Cash,Male,2025-01-27
+10499,Headphones,Electronics,Tech Zone,Ismailia,14077.0,10.0,15.0,43.0,,Credit Card,,2025-11-30
+10500,Router,Electronics,Mega Store,Aswan,15970.0,,25.0,199.0,4.0,Instapay,Male,2025-09-14
+10501,USB Cable,Networking,Smart Shop,,24192.0,4.0,5.0,151.0,2.8,Instapay,Female,2025-03-16
+10502,Speaker,Networking,Future Electronics,Luxor,13802.0,2.0,0.0,85.0,4.4,Vodafone Cash,Male,2025-09-08
+10503,Tablet,Furniture,Digital World,Mansoura,21520.0,5.0,10.0,18.0,1.5,Credit Card,Female,2025-05-20
+10504,Camera,Accessories,Mega Store,Tanta,25890.0,2.0,15.0,100.0,2.0,Credit Card,Female,2024-11-15
+10505,,,Online Market,Tanta,23595.0,2.0,5.0,94.0,4.3,Cash,Male,2025-07-06
+10506,Hard Drive,Office,,,18318.0,6.0,20.0,253.0,2.5,Cash,Female,2024-08-02
+10507,Desk,Office,Digital World,Port Said,18243.0,10.0,15.0,29.0,,,Male,2024-03-11
+10508,Chair,Furniture,Digital World,Luxor,3217.0,9.0,,248.0,2.9,Debit Card,Male,2025-07-21
+10509,Power Bank,Networking,Elite Store,Aswan,12039.0,4.0,,32.0,4.2,Debit Card,Male,2024-08-23
+10510,Smart Watch,Furniture,,Alexandria,,6.0,0.0,,2.6,,Female,2024-10-07
+10511,Phone,Office,Tech Zone,Ismailia,22786.0,7.0,15.0,11.0,2.7,Credit Card,Male,2025-09-08
+10512,Camera,Accessories,Mega Store,,28040.0,6.0,30.0,117.0,2.5,Credit Card,Male,2024-06-10
+10513,Tablet,Electronics,Smart Shop,Suez,29833.0,8.0,15.0,154.0,3.9,Instapay,Male,2024-07-09
+10514,Router,Networking,Digital World,Alexandria,25443.0,4.0,25.0,245.0,3.2,Credit Card,Female,2024-01-09
+10515,,Networking,Mega Store,Port Said,14137.0,1.0,10.0,246.0,4.8,Credit Card,Male,2024-02-29
+10516,Printer,Furniture,Tech Zone,Giza,22490.0,7.0,5.0,,2.0,Credit Card,Female,2024-08-12
+10517,Printer,Networking,Elite Store,Giza,2487.0,3.0,15.0,160.0,1.4,Vodafone Cash,Female,2025-11-30
+10518,Desk,Office,,Alexandria,22902.0,6.0,10.0,234.0,2.6,Credit Card,Male,2025-08-04
+10519,Microphone,Office,Future Electronics,,15325.0,,25.0,189.0,3.5,Cash,Female,2024-10-13
+10520,Phone,Furniture,Elite Store,Suez,25514.0,9.0,10.0,116.0,4.4,Cash,Female,2024-06-17
+10521,SSD,Office,Tech Zone,Cairo,22385.0,1.0,15.0,270.0,,Instapay,Male,2024-03-02
+10522,Smart Watch,Accessories,Smart Shop,Cairo,5326.0,6.0,0.0,,3.6,,Male,2024-12-14
+10523,Laptop,Furniture,Digital World,Port Said,8909.0,,,179.0,2.4,Cash,Male,2025-03-17
+10524,Webcam,Accessories,Mega Store,Aswan,,5.0,5.0,171.0,3.5,Vodafone Cash,Female,2024-01-14
+10525,Hard Drive,Electronics,Tech Zone,Tanta,4778.0,5.0,0.0,273.0,4.5,Vodafone Cash,Male,2024-06-12
+10526,Chair,Accessories,Elite Store,Tanta,19058.0,,,258.0,1.9,Instapay,Female,2025-02-23
+10527,Smart Watch,Electronics,Future Electronics,Mansoura,5788.0,10.0,15.0,134.0,,Vodafone Cash,Female,2025-06-03
+10528,Monitor,Electronics,Tech Zone,Suez,20666.0,5.0,5.0,170.0,5.0,Credit Card,Female,2025-10-27
+10529,Monitor,Accessories,Computer House,Suez,5843.0,2.0,15.0,,4.5,Vodafone Cash,Female,2025-07-01
+10530,Desk,Furniture,Online Market,Giza,4573.0,7.0,25.0,235.0,3.3,Instapay,,2025-07-13
+10531,Microphone,Office,,Luxor,5621.0,3.0,15.0,185.0,3.1,,Male,2025-08-19
+10532,Speaker,Office,Elite Store,Port Said,,,,94.0,2.1,Instapay,Male,2024-01-28
+10533,,Electronics,Smart Shop,Cairo,15296.0,3.0,0.0,10.0,3.1,Cash,Female,2025-12-08
+10534,Camera,,,Port Said,25444.0,3.0,30.0,67.0,4.4,Credit Card,Female,2025-03-21
+10535,Microphone,Furniture,Elite Store,Tanta,10430.0,4.0,15.0,209.0,3.7,Cash,Male,2024-07-26
+10536,Chair,,Online Market,Tanta,25732.0,5.0,30.0,195.0,2.2,Debit Card,Male,2025-04-14
+10537,Mouse,Accessories,Smart Shop,Alexandria,2274.0,1.0,30.0,97.0,1.8,Credit Card,Female,2025-12-16
+10538,Smart Watch,Electronics,,Mansoura,8439.0,4.0,25.0,92.0,2.1,Vodafone Cash,Female,2024-04-13
+10539,Smart Watch,Office,Tech Zone,Suez,27297.0,8.0,20.0,,1.7,Instapay,Male,2025-03-01
+10540,Router,Furniture,Computer House,Ismailia,,10.0,0.0,171.0,1.4,Debit Card,Male,2024-04-10
+10541,Webcam,Accessories,Future Electronics,Port Said,22525.0,7.0,30.0,133.0,2.7,Credit Card,Female,2025-06-24
+10542,Phone,Furniture,Future Electronics,Tanta,11734.0,9.0,5.0,24.0,1.5,Cash,Male,2025-09-30
+10543,Tablet,Accessories,,Luxor,10690.0,5.0,10.0,184.0,1.7,Instapay,Male,2025-06-05
+10544,Chair,Accessories,Computer House,Giza,8712.0,,5.0,84.0,3.2,Cash,Female,2024-04-15
+10545,,Electronics,Tech Zone,Cairo,6411.0,4.0,25.0,54.0,1.7,Credit Card,Female,2025-11-09
+10546,Mouse,,Mega Store,Mansoura,1998.0,8.0,25.0,250.0,1.3,Credit Card,Female,2024-10-03
+10547,Smart Watch,Furniture,Online Market,Luxor,29650.0,,5.0,143.0,2.3,,Male,2024-03-05
+10548,Hard Drive,Office,Smart Shop,Mansoura,12141.0,7.0,0.0,166.0,1.9,Vodafone Cash,Female,2024-07-06
+10549,Laptop,Office,Elite Store,Alexandria,,7.0,5.0,223.0,3.1,Cash,Male,2024-11-12
+10550,Desk,Electronics,Future Electronics,Ismailia,12042.0,,15.0,219.0,1.4,,Female,2024-05-17
+10551,Desk,Electronics,,Tanta,23528.0,4.0,5.0,178.0,4.0,Instapay,Female,2024-12-08
+10552,Speaker,,Smart Shop,Giza,,10.0,,118.0,4.6,,Male,2024-04-14
+10553,Smart Watch,Office,,Luxor,6368.0,1.0,10.0,,4.0,Debit Card,Male,2025-06-29
+10554,Smart Watch,Accessories,Computer House,,28744.0,10.0,20.0,149.0,3.1,Cash,Female,2025-01-14
+10555,USB Cable,Furniture,Future Electronics,,20230.0,10.0,10.0,214.0,4.4,Credit Card,Female,2024-04-19
+10556,SSD,Electronics,Elite Store,,12230.0,7.0,5.0,196.0,3.8,,Male,2025-06-28
+10557,Headphones,Furniture,Tech Zone,Suez,284.0,1.0,10.0,41.0,1.0,Cash,Female,2024-12-19
+10558,Printer,Furniture,Tech Zone,Giza,15422.0,1.0,0.0,52.0,2.6,Vodafone Cash,Male,2024-11-12
+10559,,,Smart Shop,Luxor,29846.0,5.0,30.0,250.0,4.4,,Male,2024-09-22
+10560,Mouse,Office,Elite Store,Alexandria,25554.0,9.0,,294.0,2.4,Credit Card,Female,2025-11-24
+10561,Microphone,Electronics,Online Market,Luxor,20041.0,6.0,15.0,270.0,1.1,Credit Card,Male,2024-03-05
+10562,Webcam,Furniture,Digital World,Tanta,24477.0,3.0,0.0,122.0,4.0,Instapay,Male,2024-11-28
+10563,Router,Electronics,Computer House,Aswan,572.0,3.0,20.0,,4.2,Instapay,Male,2025-05-27
+10564,USB Cable,Accessories,Smart Shop,,22338.0,7.0,15.0,28.0,1.6,Credit Card,Female,2024-05-12
+10565,Tablet,Networking,Digital World,Suez,28149.0,6.0,5.0,34.0,3.1,Credit Card,Male,2025-08-14
+10566,Hard Drive,Accessories,Mega Store,Giza,12768.0,9.0,30.0,,1.8,Vodafone Cash,Female,2025-06-23
+10567,Power Bank,Electronics,Computer House,Ismailia,21322.0,6.0,5.0,110.0,3.9,Credit Card,,2025-06-18
+10568,USB Cable,Electronics,Mega Store,Tanta,9871.0,5.0,30.0,293.0,,Debit Card,Female,2025-05-10
+10569,Laptop,Office,Online Market,Aswan,5882.0,10.0,30.0,76.0,2.3,,Male,2025-09-12
+10570,,Furniture,Elite Store,Ismailia,12870.0,7.0,5.0,146.0,4.4,Credit Card,Male,2025-09-10
+10571,SSD,,Future Electronics,Cairo,16261.0,1.0,15.0,66.0,2.9,Instapay,Female,2025-10-18
+10572,Headphones,Accessories,,Tanta,7172.0,7.0,15.0,7.0,3.7,Debit Card,Female,2025-01-03
+10573,Speaker,Networking,Digital World,Giza,5892.0,3.0,30.0,121.0,2.6,Instapay,Male,2025-10-12
+10574,Camera,Furniture,Online Market,Mansoura,1366.0,9.0,15.0,174.0,2.2,Debit Card,Female,2024-04-08
+10575,SSD,Office,Future Electronics,Alexandria,27483.0,6.0,30.0,178.0,3.5,Credit Card,Female,2024-11-12
+10576,Phone,Accessories,Tech Zone,Luxor,13250.0,9.0,30.0,84.0,,Cash,Male,2024-05-02
+10577,Desk,Accessories,Digital World,Giza,,,0.0,44.0,,Instapay,Female,2024-11-15
+10578,Speaker,,Smart Shop,Alexandria,22055.0,7.0,25.0,135.0,1.8,Debit Card,,2025-08-15
+10579,Phone,Networking,Tech Zone,Ismailia,21857.0,4.0,0.0,15.0,3.8,Vodafone Cash,Male,2025-05-09
+10580,Monitor,Office,Online Market,Luxor,15256.0,7.0,5.0,194.0,4.8,Credit Card,Female,2025-04-01
+10581,Phone,Networking,Tech Zone,Port Said,19021.0,1.0,25.0,8.0,5.0,Cash,Male,2025-06-05
+10582,Router,Office,Smart Shop,Suez,25649.0,7.0,10.0,14.0,2.8,Credit Card,Male,2025-06-03
+10583,Printer,Office,Computer House,Cairo,22106.0,8.0,5.0,101.0,2.0,Vodafone Cash,Male,2025-12-17
+10584,,Electronics,Tech Zone,Tanta,1428.0,5.0,,225.0,,Cash,,2024-11-10
+10585,Monitor,Accessories,Elite Store,Giza,19808.0,2.0,0.0,,4.4,Vodafone Cash,Female,2025-12-09
+10586,Hard Drive,Office,Digital World,Cairo,,5.0,15.0,112.0,1.8,Credit Card,Female,2025-12-10
+10587,Tablet,Office,Future Electronics,Mansoura,22211.0,6.0,,0.0,4.8,Debit Card,,2025-06-25
+10588,Laptop,Furniture,,Alexandria,7985.0,2.0,15.0,265.0,,Credit Card,Male,2025-04-23
+10589,Webcam,Accessories,,Alexandria,6143.0,6.0,25.0,207.0,4.9,Credit Card,Female,2024-01-20
+10590,Smart Watch,Furniture,Mega Store,Giza,24852.0,6.0,20.0,109.0,4.4,Credit Card,Female,2025-07-13
+10591,SSD,Accessories,Digital World,Aswan,5405.0,1.0,25.0,199.0,4.2,Instapay,Male,2024-05-09
+10592,Smart Watch,Furniture,Future Electronics,Aswan,21402.0,1.0,20.0,11.0,2.3,Vodafone Cash,Female,2024-10-19
+10593,Power Bank,Office,Digital World,Port Said,9133.0,10.0,0.0,187.0,1.0,Vodafone Cash,Female,2024-05-11
+10594,,Office,Smart Shop,Suez,5624.0,3.0,15.0,,2.5,Vodafone Cash,Female,2024-12-21
+10595,Desk,Electronics,Online Market,Luxor,20506.0,10.0,25.0,278.0,2.2,Instapay,Female,2024-02-23
+10596,Router,Furniture,Future Electronics,Mansoura,13374.0,10.0,20.0,170.0,1.1,Debit Card,Female,2025-01-21
+10597,Microphone,Networking,Online Market,Cairo,2307.0,,30.0,133.0,3.0,,Male,2024-09-21
+10598,Printer,Electronics,Computer House,Aswan,27414.0,4.0,5.0,24.0,2.6,Debit Card,Female,2024-08-02
+10599,USB Cable,,,Port Said,25022.0,2.0,5.0,17.0,3.5,Instapay,Female,2025-04-04
+10600,Keyboard,Furniture,Mega Store,Port Said,13461.0,9.0,25.0,189.0,3.5,Vodafone Cash,Male,2025-04-02
+10601,,Electronics,Smart Shop,Giza,26704.0,10.0,15.0,140.0,1.5,Credit Card,Male,2024-02-12
+10602,Router,,Computer House,Mansoura,15283.0,,30.0,42.0,4.9,Cash,Male,2025-08-08
+10603,Smart Watch,Furniture,Digital World,Ismailia,15937.0,7.0,25.0,283.0,1.7,Cash,Male,2024-10-04
+10604,Printer,Office,Future Electronics,Luxor,29370.0,6.0,0.0,145.0,2.8,Debit Card,Female,2024-05-09
+10605,Laptop,Electronics,Mega Store,Suez,20858.0,3.0,20.0,91.0,3.0,Vodafone Cash,Female,2024-12-15
+10606,Laptop,Office,Smart Shop,Tanta,19671.0,6.0,0.0,178.0,4.3,Cash,Female,2025-12-06
+10607,Router,Accessories,Computer House,Giza,20327.0,8.0,5.0,55.0,1.4,Debit Card,Female,2025-06-27
+10608,USB Cable,Networking,Computer House,Luxor,29673.0,8.0,,154.0,2.7,,Male,2024-04-15
+10609,Hard Drive,,Mega Store,Tanta,2055.0,9.0,25.0,159.0,3.5,Debit Card,Male,2025-12-16
+10610,Headphones,Networking,Elite Store,,18450.0,,0.0,110.0,1.9,Debit Card,Female,2024-01-01
+10611,,Office,Digital World,Mansoura,27797.0,1.0,10.0,136.0,3.5,Debit Card,Female,2025-08-06
+10612,Smart Watch,Furniture,Mega Store,,10910.0,,15.0,231.0,4.7,Credit Card,Female,2025-03-07
+10613,Laptop,Office,Computer House,Cairo,10120.0,3.0,30.0,219.0,5.0,Debit Card,Female,2024-11-01
+10614,Keyboard,Accessories,,Port Said,9438.0,10.0,30.0,67.0,1.1,,Male,2025-06-10
+10615,Tablet,Electronics,Smart Shop,Luxor,18206.0,8.0,15.0,,1.9,Credit Card,Female,2024-02-22
+10616,Mouse,Furniture,Mega Store,Giza,24787.0,10.0,10.0,5.0,,Credit Card,Male,2025-06-03
+10617,Laptop,Accessories,Elite Store,Alexandria,,1.0,5.0,279.0,2.6,Instapay,Male,2024-11-25
+10618,SSD,Accessories,Computer House,Giza,18185.0,2.0,20.0,93.0,2.0,Vodafone Cash,Male,2025-07-11
+10619,,Furniture,,Cairo,25401.0,2.0,15.0,268.0,1.8,Cash,,2024-11-20
+10620,Hard Drive,Office,Online Market,Suez,23864.0,3.0,10.0,196.0,4.8,Cash,Female,2024-04-23
+10621,Printer,Accessories,Computer House,Port Said,14659.0,6.0,25.0,24.0,4.7,Debit Card,Female,2024-05-26
+10622,Printer,Networking,Digital World,Alexandria,23604.0,1.0,30.0,147.0,1.2,Instapay,Female,2024-06-14
+10623,Desk,Accessories,,Aswan,29773.0,2.0,10.0,117.0,2.4,Debit Card,Female,2025-01-13
+10624,,Office,Digital World,Suez,22903.0,,,,2.6,Cash,Male,2024-05-18
+10625,Printer,Office,Future Electronics,,16413.0,5.0,5.0,174.0,2.0,Credit Card,Male,2025-09-20
+10626,Printer,,Future Electronics,Tanta,25565.0,7.0,0.0,75.0,3.5,Vodafone Cash,Male,2024-10-25
+10627,Camera,Accessories,Future Electronics,Aswan,19654.0,8.0,,113.0,,Instapay,Female,2024-10-02
+10628,Camera,Office,Elite Store,Giza,16973.0,10.0,0.0,110.0,4.4,Credit Card,Male,2024-06-26
+10629,Microphone,Furniture,Elite Store,Giza,14873.0,1.0,30.0,,4.0,Vodafone Cash,Male,2024-12-19
+10630,Hard Drive,Electronics,Tech Zone,Mansoura,29543.0,7.0,10.0,202.0,,Instapay,Male,2024-06-02
+10631,Power Bank,Electronics,Elite Store,Cairo,17895.0,5.0,,146.0,3.6,Instapay,Male,2024-07-19
+10632,Tablet,Electronics,Online Market,Luxor,21618.0,10.0,20.0,34.0,2.1,Cash,,2024-04-24
+10633,Power Bank,Accessories,Mega Store,Aswan,8597.0,1.0,5.0,25.0,3.4,Credit Card,Male,2025-11-01
+10634,,Networking,Computer House,Aswan,28230.0,,20.0,237.0,3.0,Instapay,Male,2025-07-07
+10635,Microphone,,Computer House,Ismailia,11565.0,7.0,20.0,13.0,1.5,,Female,2024-03-08
+10636,Smart Watch,Furniture,Tech Zone,Suez,284.0,10.0,30.0,44.0,2.0,Vodafone Cash,Female,2025-03-20
+10637,Smart Watch,Furniture,Elite Store,Port Said,14612.0,1.0,,215.0,2.2,Cash,Female,2025-03-20
+10638,Monitor,Accessories,Online Market,Suez,17982.0,7.0,10.0,232.0,4.7,,,2024-11-21
+10639,Laptop,Electronics,Digital World,Luxor,7530.0,5.0,,192.0,1.9,Cash,Male,2025-12-08
+10640,Hard Drive,Accessories,Tech Zone,Giza,26722.0,1.0,25.0,50.0,2.2,Debit Card,Male,2025-08-24
+10641,Phone,Networking,Online Market,Giza,4263.0,1.0,20.0,213.0,2.5,Credit Card,Male,2025-09-14
+10642,Keyboard,Networking,,Giza,10343.0,1.0,,,3.7,Credit Card,Female,2024-12-24
+10643,Phone,Office,Online Market,Ismailia,1723.0,9.0,0.0,274.0,1.5,Instapay,Male,2024-05-24
+10644,Chair,Office,Digital World,Giza,23142.0,3.0,10.0,75.0,4.8,Credit Card,,2024-10-01
+10645,,Networking,,,29789.0,5.0,5.0,219.0,4.5,Instapay,,2025-05-23
+10646,Mouse,Networking,Online Market,Mansoura,24416.0,,0.0,186.0,3.3,Cash,,2024-06-27
+10647,Router,Networking,Computer House,Port Said,2150.0,,15.0,288.0,3.7,Credit Card,Female,2025-04-21
+10648,Speaker,Accessories,,Luxor,11899.0,6.0,10.0,27.0,1.1,Cash,Male,2025-02-17
+10649,Laptop,,Elite Store,Port Said,29279.0,9.0,25.0,179.0,2.4,Cash,Male,2024-06-01
+10650,Speaker,,Digital World,Luxor,,8.0,,252.0,4.2,Credit Card,Male,2024-04-13
+10651,Printer,Electronics,Smart Shop,Giza,20182.0,8.0,15.0,125.0,1.3,Cash,Male,2024-03-15
+10652,Hard Drive,Networking,Online Market,,19607.0,1.0,15.0,176.0,2.1,Credit Card,Male,2024-05-07
+10653,SSD,Electronics,,Aswan,,9.0,15.0,36.0,3.3,Credit Card,Female,2025-12-11
+10654,USB Cable,Accessories,Future Electronics,Suez,3891.0,6.0,30.0,,2.0,,Female,2025-10-27
+10655,USB Cable,Electronics,Digital World,Tanta,10247.0,9.0,5.0,97.0,4.7,Debit Card,Male,2025-07-21
+10656,Printer,Accessories,Online Market,,8066.0,3.0,20.0,126.0,1.5,Cash,Male,2024-12-10
+10657,Power Bank,Furniture,Online Market,Aswan,7061.0,3.0,,167.0,4.2,Vodafone Cash,Male,2025-06-14
+10658,Keyboard,Accessories,Digital World,Cairo,4543.0,6.0,30.0,79.0,3.0,,Male,2024-06-07
+10659,Headphones,Accessories,Tech Zone,Luxor,17108.0,,20.0,293.0,4.0,Cash,Male,2025-06-21
+10660,,Office,Tech Zone,Cairo,24522.0,7.0,20.0,125.0,2.2,Instapay,Female,2025-03-01
+10661,Chair,Networking,Computer House,Aswan,8628.0,3.0,25.0,,3.1,Credit Card,,2025-11-11
+10662,Desk,Networking,Future Electronics,Mansoura,2208.0,3.0,15.0,15.0,4.4,Credit Card,,2024-01-23
+10663,,Furniture,Digital World,Luxor,19095.0,2.0,5.0,27.0,2.9,Vodafone Cash,Male,2024-02-16
+10664,Desk,Furniture,Computer House,Tanta,2114.0,9.0,,172.0,2.4,Debit Card,Male,2025-06-08
+10665,Router,Networking,Computer House,Giza,28477.0,3.0,0.0,45.0,3.1,Debit Card,Female,2025-12-29
+10666,Keyboard,Office,Mega Store,Luxor,3303.0,5.0,30.0,235.0,3.9,Credit Card,Female,2025-12-06
+10667,,Networking,,Luxor,21413.0,9.0,30.0,213.0,2.8,Cash,Male,2024-05-23
+10668,USB Cable,Office,Elite Store,Mansoura,24137.0,8.0,5.0,84.0,,Instapay,Female,2025-08-07
+10669,Microphone,Furniture,Online Market,Mansoura,12878.0,2.0,20.0,281.0,2.2,Instapay,,2025-10-29
+10670,Keyboard,Electronics,Tech Zone,Aswan,28892.0,3.0,30.0,231.0,2.9,Cash,Male,2025-08-11
+10671,Webcam,Furniture,Future Electronics,Alexandria,25365.0,2.0,5.0,84.0,4.0,Credit Card,Female,2025-02-22
+10672,Desk,,Online Market,Luxor,1451.0,8.0,30.0,64.0,3.8,Instapay,Female,2025-11-11
+10673,Laptop,Accessories,,,19693.0,6.0,30.0,,,Debit Card,Female,2024-03-25
+10674,USB Cable,Accessories,Computer House,Luxor,15243.0,6.0,15.0,150.0,5.0,Cash,,2025-02-19
+10675,Camera,Accessories,Digital World,Aswan,26903.0,9.0,0.0,114.0,2.7,Vodafone Cash,Female,2025-11-24
+10676,Microphone,Accessories,Mega Store,Port Said,12146.0,8.0,15.0,63.0,1.4,,Female,2025-04-26
+10677,Hard Drive,Office,Future Electronics,Cairo,20357.0,4.0,0.0,157.0,1.1,Cash,Female,2025-03-31
+10678,Printer,Networking,Computer House,Giza,4264.0,4.0,30.0,76.0,3.9,Instapay,Male,2024-10-23
+10679,Monitor,,Digital World,Alexandria,19661.0,9.0,25.0,145.0,4.5,Credit Card,Male,2024-04-21
+10680,Camera,Furniture,Tech Zone,Tanta,11073.0,1.0,20.0,224.0,1.9,Debit Card,Female,2024-08-17
+10681,Hard Drive,Office,Elite Store,Tanta,12000.0,2.0,30.0,102.0,1.6,Credit Card,Male,2024-04-05
+10682,Camera,Electronics,Mega Store,Tanta,10754.0,2.0,0.0,,1.2,Credit Card,Female,2025-11-10
+10683,Hard Drive,Office,Future Electronics,Mansoura,10393.0,6.0,0.0,167.0,4.3,Debit Card,Male,2025-01-12
+10684,Webcam,Office,Mega Store,Tanta,11917.0,4.0,0.0,169.0,2.2,,Male,2024-06-04
+10685,Printer,Furniture,Tech Zone,Giza,2795.0,10.0,30.0,134.0,2.6,Credit Card,Female,2025-02-24
+10686,Keyboard,Networking,Future Electronics,Cairo,22525.0,3.0,5.0,49.0,3.0,Debit Card,,2024-04-14
+10687,Desk,,Mega Store,Tanta,,3.0,25.0,133.0,4.4,Cash,Female,2025-12-05
+10688,Keyboard,Networking,Smart Shop,Luxor,12006.0,3.0,5.0,136.0,3.6,Debit Card,Male,2024-11-25
+10689,Smart Watch,Furniture,Tech Zone,Luxor,5868.0,6.0,20.0,244.0,3.5,,,2025-03-14
+10690,Headphones,Furniture,Tech Zone,Mansoura,18656.0,,30.0,108.0,1.7,Credit Card,Male,2024-05-11
+10691,Headphones,Furniture,Tech Zone,Giza,16143.0,7.0,0.0,286.0,,Cash,Male,2025-01-16
+10692,SSD,Electronics,Smart Shop,,19226.0,4.0,25.0,20.0,3.9,Vodafone Cash,Female,2024-05-17
+10693,Headphones,Networking,Smart Shop,Alexandria,26323.0,4.0,25.0,,4.9,Vodafone Cash,Male,2024-09-26
+10694,Microphone,Networking,Digital World,Aswan,15543.0,10.0,10.0,295.0,1.8,Instapay,Female,2025-07-03
+10695,USB Cable,Office,Computer House,Cairo,28088.0,2.0,20.0,111.0,1.0,,Male,2025-01-30
+10696,SSD,Office,Elite Store,,20497.0,1.0,25.0,76.0,1.3,Debit Card,Female,2025-07-10
+10697,Headphones,Office,Mega Store,Port Said,17958.0,9.0,30.0,176.0,2.5,Cash,Male,2025-04-08
+10698,SSD,Furniture,Digital World,Aswan,29386.0,2.0,0.0,147.0,4.3,Vodafone Cash,Male,2025-11-05
+10699,Phone,Networking,Mega Store,,8274.0,8.0,0.0,100.0,1.0,,Female,2025-03-25
+10700,Monitor,Furniture,Elite Store,Luxor,22632.0,9.0,25.0,,2.8,Cash,Male,2024-11-26
+10701,,Electronics,Computer House,Giza,,4.0,5.0,116.0,2.3,Debit Card,Female,2024-09-09
+10702,Monitor,Office,Smart Shop,Ismailia,19000.0,8.0,,91.0,1.2,Vodafone Cash,Male,2025-11-11
+10703,Mouse,Furniture,,Mansoura,19237.0,9.0,0.0,27.0,2.8,Instapay,Male,2024-10-11
+10704,Mouse,,Smart Shop,Suez,28522.0,10.0,25.0,24.0,2.0,Credit Card,,2024-09-30
+10705,Router,Electronics,Elite Store,,20143.0,,0.0,57.0,2.4,Vodafone Cash,Female,2024-01-20
+10706,Microphone,Accessories,Computer House,Tanta,6205.0,5.0,,296.0,3.8,Instapay,Female,2024-08-26
+10707,Microphone,,Digital World,Giza,13889.0,,,133.0,,Cash,Female,2024-09-26
+10708,Printer,Accessories,Future Electronics,Suez,769.0,10.0,25.0,248.0,1.5,,Female,2025-02-21
+10709,Router,Office,Digital World,Mansoura,14940.0,,10.0,37.0,4.8,Instapay,Female,2024-11-05
+10710,Camera,Furniture,Mega Store,Luxor,,1.0,25.0,74.0,3.5,Instapay,Male,2024-01-31
+10711,Desk,Electronics,Digital World,Giza,21013.0,3.0,25.0,141.0,4.1,Debit Card,Male,2024-04-13
+10712,Laptop,Electronics,Elite Store,Mansoura,17406.0,5.0,,167.0,1.3,Vodafone Cash,Female,2025-11-12
+10713,Printer,Networking,,Port Said,20152.0,3.0,20.0,258.0,1.2,Debit Card,Male,2024-07-04
+10714,,Accessories,Mega Store,Port Said,23829.0,7.0,30.0,224.0,1.1,,Male,2024-05-07
+10715,Speaker,Networking,Computer House,Mansoura,20836.0,9.0,25.0,151.0,1.8,Instapay,Male,2024-07-28
+10716,Power Bank,Furniture,Mega Store,Suez,20986.0,6.0,20.0,18.0,2.7,Debit Card,Male,2025-02-17
+10717,Keyboard,Networking,Future Electronics,Giza,18641.0,10.0,10.0,145.0,4.7,Vodafone Cash,Female,2024-10-07
+10718,Hard Drive,Electronics,Smart Shop,Suez,4476.0,1.0,20.0,240.0,2.8,Credit Card,,2024-09-09
+10719,,,Computer House,Alexandria,23353.0,7.0,0.0,236.0,2.2,Cash,Female,2024-01-19
+10720,Smart Watch,Office,Online Market,,12562.0,,30.0,,3.2,Debit Card,Female,2025-12-12
+10721,Tablet,Office,Mega Store,Alexandria,27656.0,5.0,20.0,189.0,1.4,Credit Card,Male,2024-05-15
+10722,USB Cable,Furniture,Computer House,,15114.0,10.0,,,3.4,Cash,Female,2024-08-10
+10723,USB Cable,Accessories,Computer House,Luxor,28201.0,4.0,15.0,152.0,3.3,,Male,2024-01-03
+10724,Headphones,,Computer House,Cairo,13817.0,10.0,25.0,125.0,4.2,Credit Card,Male,2024-08-23
+10725,SSD,Furniture,Smart Shop,Aswan,11358.0,5.0,20.0,225.0,4.9,Credit Card,Male,2025-04-09
+10726,Hard Drive,Office,Online Market,Port Said,11527.0,5.0,25.0,220.0,2.0,Debit Card,Female,2024-08-15
+10727,Monitor,Networking,,Suez,29804.0,6.0,5.0,210.0,3.0,Credit Card,Female,2025-10-15
+10728,Laptop,,Digital World,Suez,25269.0,10.0,0.0,24.0,4.6,Instapay,Female,2025-05-13
+10729,Phone,Networking,Computer House,Suez,12953.0,10.0,30.0,15.0,4.1,Debit Card,Male,2025-06-04
+10730,Hard Drive,Accessories,Tech Zone,Luxor,24820.0,6.0,0.0,181.0,,Credit Card,Male,2025-12-02
+10731,Mouse,Furniture,Elite Store,,28622.0,8.0,,128.0,4.8,Cash,Male,2025-11-07
+10732,Webcam,Networking,,Cairo,8730.0,8.0,5.0,41.0,1.2,Cash,Female,2024-05-18
+10733,USB Cable,Electronics,Smart Shop,Suez,2254.0,9.0,30.0,,4.7,,Male,2024-10-02
+10734,USB Cable,Electronics,Mega Store,Ismailia,27283.0,8.0,20.0,33.0,1.2,Debit Card,Male,2024-10-17
+10735,Power Bank,Networking,Smart Shop,Aswan,21779.0,2.0,5.0,44.0,3.2,,Female,2024-02-22
+10736,,Networking,Mega Store,Giza,19710.0,10.0,15.0,133.0,4.6,Credit Card,Female,2025-11-17
+10737,Keyboard,Networking,Smart Shop,Ismailia,1152.0,1.0,25.0,20.0,,,Female,2024-04-19
+10738,,Electronics,Mega Store,Cairo,5293.0,,25.0,,2.9,Instapay,Male,2025-12-15
+10739,Power Bank,Electronics,Computer House,Luxor,6664.0,2.0,10.0,69.0,,Cash,Male,2025-10-09
+10740,Microphone,Networking,Digital World,Cairo,16349.0,2.0,5.0,47.0,4.8,Cash,Male,2024-01-04
+10741,Chair,Office,Mega Store,Giza,25867.0,3.0,5.0,38.0,4.3,Instapay,Female,2025-10-28
+10742,Mouse,Office,Online Market,Aswan,8757.0,10.0,15.0,286.0,,Debit Card,Female,2025-11-14
+10743,USB Cable,Accessories,Mega Store,Giza,13963.0,7.0,,9.0,3.4,Credit Card,Female,2024-02-16
+10744,Power Bank,,,Mansoura,21657.0,2.0,0.0,29.0,4.3,Debit Card,Female,2024-04-03
+10745,Headphones,Office,Mega Store,Aswan,25018.0,1.0,25.0,243.0,2.6,Vodafone Cash,Male,2025-07-13
+10746,USB Cable,,Tech Zone,Cairo,680.0,6.0,25.0,273.0,,Vodafone Cash,Male,2024-07-31
+10747,,,Future Electronics,Suez,11958.0,,20.0,87.0,3.9,Vodafone Cash,Male,2025-03-11
+10748,Router,Accessories,Computer House,Cairo,26473.0,3.0,30.0,243.0,2.4,,Male,2025-05-22
+10749,Desk,Accessories,Tech Zone,Cairo,10897.0,6.0,,14.0,1.3,Cash,Male,2025-10-12
+10750,Mouse,Furniture,Digital World,Aswan,,3.0,30.0,,1.3,Debit Card,,2024-07-23
+10751,Microphone,Office,Elite Store,Mansoura,12771.0,,30.0,190.0,1.5,Credit Card,Male,2025-01-15
+10752,USB Cable,Electronics,Computer House,Cairo,28028.0,5.0,10.0,167.0,4.5,,Male,2024-03-13
+10753,Printer,Electronics,,Ismailia,28497.0,10.0,30.0,8.0,2.9,Debit Card,,2025-05-30
+10754,Camera,Networking,Computer House,Port Said,23117.0,4.0,10.0,108.0,,Vodafone Cash,Female,2024-03-16
+10755,Chair,Electronics,,,16711.0,7.0,30.0,136.0,2.6,Vodafone Cash,,2024-03-17
+10756,Hard Drive,Furniture,Computer House,Tanta,16666.0,6.0,15.0,,2.0,Credit Card,Female,2025-02-13
+10757,Chair,Furniture,Computer House,Cairo,9794.0,10.0,10.0,208.0,2.4,Instapay,Male,2025-09-05
+10758,Speaker,Electronics,Future Electronics,Ismailia,5740.0,7.0,0.0,271.0,4.2,Cash,Male,2024-04-15
+10759,,Electronics,Digital World,Suez,13451.0,5.0,,142.0,3.5,Instapay,Female,2025-07-04
+10760,Smart Watch,Networking,Smart Shop,Luxor,7709.0,4.0,10.0,98.0,4.8,Debit Card,,2025-04-20
+10761,Webcam,Electronics,Smart Shop,Luxor,27896.0,7.0,15.0,,,Instapay,Male,2024-10-01
+10762,Monitor,,Tech Zone,Aswan,10651.0,7.0,15.0,246.0,3.3,Debit Card,Male,2024-03-28
+10763,Camera,Networking,Computer House,Tanta,11754.0,6.0,10.0,260.0,3.4,Debit Card,Male,2025-12-23
+10764,Mouse,Electronics,Tech Zone,,75.0,8.0,5.0,,4.8,,Male,2024-03-17
+10765,Tablet,Accessories,,,15434.0,4.0,15.0,78.0,4.2,,Male,2024-03-17
+10766,Smart Watch,Accessories,Future Electronics,Cairo,13755.0,10.0,20.0,145.0,1.1,Cash,Male,2025-03-17
+10767,,Networking,,Aswan,,5.0,20.0,,,Instapay,Female,2025-06-23
+10768,USB Cable,,Online Market,Tanta,,4.0,0.0,257.0,3.8,Debit Card,Female,2024-09-01
+10769,,Accessories,,Giza,8702.0,1.0,30.0,92.0,4.0,Vodafone Cash,Male,2025-07-31
+10770,USB Cable,Electronics,Mega Store,Port Said,20198.0,8.0,10.0,12.0,1.9,Vodafone Cash,Female,2025-01-16
+10771,Keyboard,Electronics,Digital World,,23033.0,1.0,5.0,259.0,4.5,Debit Card,Male,2025-12-17
+10772,USB Cable,Electronics,Tech Zone,,28057.0,5.0,0.0,108.0,4.8,Cash,Male,2025-07-23
+10773,Phone,Office,Elite Store,Port Said,13429.0,6.0,10.0,,1.9,Credit Card,Male,2025-12-13
+10774,Phone,,Digital World,Giza,,6.0,,94.0,4.5,,Male,2024-05-21
+10775,Hard Drive,Office,Future Electronics,Cairo,,5.0,20.0,104.0,1.4,Debit Card,Female,2025-01-02
+10776,Speaker,Networking,Digital World,Aswan,19917.0,3.0,25.0,7.0,,,,2024-03-24
+10777,Microphone,,Digital World,Giza,18428.0,,5.0,66.0,1.5,Credit Card,Female,2024-05-22
+10778,Camera,Accessories,Online Market,Aswan,8732.0,8.0,25.0,190.0,1.2,,Female,2024-12-17
+10779,Tablet,Accessories,Online Market,Aswan,1122.0,2.0,20.0,255.0,4.4,Instapay,Male,2025-06-28
+10780,Printer,Accessories,Online Market,Tanta,23141.0,6.0,30.0,8.0,1.2,Credit Card,Female,2024-05-31
+10781,Desk,Accessories,Digital World,Cairo,27799.0,9.0,30.0,116.0,2.1,,Male,2024-06-06
+10782,Webcam,Accessories,Future Electronics,Ismailia,265.0,8.0,,266.0,1.4,Vodafone Cash,,2025-03-21
+10783,Keyboard,Accessories,Elite Store,Port Said,24039.0,8.0,15.0,,2.2,Instapay,Female,2025-10-14
+10784,,Networking,Computer House,,9965.0,8.0,10.0,297.0,1.4,Instapay,Male,2024-10-29
+10785,Desk,Electronics,Digital World,Tanta,,7.0,15.0,163.0,3.7,Instapay,Female,2025-09-15
+10786,Printer,Furniture,Mega Store,Aswan,19040.0,8.0,25.0,140.0,1.5,Vodafone Cash,Female,2025-10-17
+10787,Laptop,Office,Future Electronics,Luxor,24784.0,6.0,15.0,267.0,4.4,Instapay,Female,2025-03-25
+10788,Desk,Furniture,Digital World,Port Said,14874.0,2.0,20.0,36.0,4.3,Vodafone Cash,Female,2025-12-21
+10789,Desk,Furniture,Elite Store,Port Said,21215.0,2.0,5.0,73.0,1.1,Credit Card,Female,2024-08-11
+10790,SSD,Electronics,Computer House,Cairo,,8.0,15.0,72.0,4.6,Cash,Male,2024-02-12
+10791,Monitor,Electronics,,Mansoura,11083.0,1.0,20.0,198.0,1.1,Credit Card,Female,2024-09-20
+10792,Headphones,Electronics,Future Electronics,,10018.0,6.0,5.0,,2.0,Cash,Female,2024-01-03
+10793,Tablet,Accessories,Smart Shop,Alexandria,16291.0,6.0,30.0,245.0,1.1,Credit Card,,2025-09-28
+10794,Mouse,Networking,Computer House,Alexandria,26678.0,4.0,10.0,59.0,2.3,Cash,Female,2024-09-24
+10795,Microphone,Accessories,,Mansoura,24197.0,10.0,25.0,278.0,3.1,Cash,Female,2025-08-18
+10796,Phone,Networking,Digital World,Cairo,5989.0,3.0,30.0,,4.2,Debit Card,Male,2024-01-16
+10797,Printer,Networking,,Mansoura,14746.0,3.0,10.0,295.0,2.4,Cash,Male,2024-11-29
+10798,Monitor,Furniture,Smart Shop,Alexandria,14844.0,1.0,30.0,150.0,3.8,Cash,Female,2025-04-08
+10799,Desk,Furniture,,Tanta,2345.0,3.0,0.0,156.0,1.8,Debit Card,Male,2024-02-28
+10800,Keyboard,Networking,Smart Shop,Giza,22119.0,4.0,30.0,205.0,4.0,Instapay,Female,2024-06-25
