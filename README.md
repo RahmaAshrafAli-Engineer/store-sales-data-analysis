@@ -59,4 +59,4 @@ The dataset contains retail store transaction records, including product informa
 
 ## 🚀 Author
 
-**Rahma Ashraf Ali**
+**Rahma Ashraf Ali Faragallah**
